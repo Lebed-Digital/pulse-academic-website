@@ -22,7 +22,7 @@ export const blogPosts: BlogPost[] = [
     title: 'How to Check for Understanding Without Grading Another Assignment',
     description:
       'A practical teacher workflow for checking student understanding during class without adding another stack of exit tickets to grade.',
-    date: '2026-04-30',
+    date: '2026-04-14',
     readingTime: '5 min read',
     primaryKeyword: 'check for understanding',
     relatedKeywords: ['formative assessment', 'exit tickets', 'student comprehension tracker'],
@@ -36,6 +36,7 @@ export const blogPosts: BlogPost[] = [
         body: [
           'Exit tickets work when they are quick, specific, and tied to the day&apos;s lesson. They break down when they become another thing to copy, pass out, collect, sort, grade, and remember.',
           'A one-question exit ticket can still create twenty-five tiny pieces of paper. By the time those cards are checked, the next lesson may already be moving.',
+          'Why did the exit ticket fail the quiz? Because it kept leaving at the end of class.',
         ],
       },
       {
@@ -50,6 +51,7 @@ export const blogPosts: BlogPost[] = [
         body: [
           'The goal is not perfect data. The goal is useful data while it can still change instruction.',
           'A fast check for understanding should answer one question: What do I need to do differently tomorrow? If the answer is clear, the system is working.',
+          'Think of it like a GPS. You do not need a perfect map — you just need enough information to make the next turn. (And unlike a GPS, you will not be told to make a U-turn in the middle of a read-aloud.)',
         ],
       },
       {
@@ -57,6 +59,7 @@ export const blogPosts: BlogPost[] = [
         body: [
           'Pulse Academic turns that workflow into a simple classroom tool. Upload or paste your lesson plan, pick an AI-suggested exit ticket question, then tap each student into Got It, Almost, or Needs Help.',
           'The teacher still makes the professional judgment. The app just keeps the evidence organized so it does not disappear into a clipboard, a sticky note, or a tired end-of-day memory.',
+          'Why did the teacher bring a ladder to school? To help students reach the next level. Pulse Academic is the ladder — you still do the climbing.',
         ],
       },
     ],
@@ -68,7 +71,7 @@ export const blogPosts: BlogPost[] = [
     title: 'Exit Ticket App vs. Paper Exit Tickets: What Teachers Actually Need',
     description:
       'Paper exit tickets are simple, but they are easy to lose and slow to analyze. Here is what an exit ticket app should actually solve for teachers.',
-    date: '2026-04-30',
+    date: '2026-04-21',
     readingTime: '6 min read',
     primaryKeyword: 'exit ticket app',
     relatedKeywords: ['AI exit ticket generator', 'exit tickets for teachers', 'formative assessment tool'],
@@ -82,6 +85,7 @@ export const blogPosts: BlogPost[] = [
         body: [
           'A paper exit ticket is easy to launch in the last five minutes of class. The hidden cost comes after students leave.',
           'If a teacher has multiple subjects, groups, or class periods, the stack quickly becomes another assessment pile. That makes it harder to use the information while it is still fresh.',
+          'What did the paper exit ticket say to the recycling bin? "I guess I was not that useful after all."',
         ],
       },
       {
@@ -96,6 +100,7 @@ export const blogPosts: BlogPost[] = [
         body: [
           'Generic exit ticket prompts are useful, but the best question comes from what was taught today. If the lesson objective was fractions on a number line, the exit ticket should target that exact understanding.',
           'That is why Pulse Academic starts with the lesson plan. The app uses the teacher&apos;s real objective to suggest exit ticket questions that match the day instead of pulling from a generic prompt bank.',
+          'Why did the fraction feel so confident? Because it knew exactly where it stood on the number line.',
         ],
       },
       {
@@ -103,6 +108,7 @@ export const blogPosts: BlogPost[] = [
         body: [
           'An exit ticket app should not just collect answers. It should make tomorrow easier.',
           'When students are grouped into Got It, Almost, and Needs Help, the teacher can quickly decide who needs a warm-up review, who needs partner practice, and who needs direct intervention.',
+          'Think of it as sorting laundry — except instead of lights and darks, you are sorting students into small groups. And nobody loses a sock.',
         ],
       },
     ],
@@ -128,6 +134,7 @@ export const blogPosts: BlogPost[] = [
         body: [
           'During independent work, small group, or the last minutes of a lesson, teachers do not have time to open a complicated gradebook. They need one glance and one mark.',
           'A clipboard does that beautifully. The problem is that the information often stays trapped on paper, separated from lesson plans, student history, and tomorrow&apos;s planning.',
+          'Why did the teacher carry a clipboard everywhere? Because she needed something to lean on — and it was cheaper than a therapist.',
         ],
       },
       {
@@ -142,6 +149,7 @@ export const blogPosts: BlogPost[] = [
         body: [
           'Teachers do not just need to know whether a student is generally doing well. They need to know whether the student understood today&apos;s specific lesson.',
           'That is the clipboard gap: the space between daily instructional judgment and organized, reusable data.',
+          'Why did the data stay on paper? Because nobody built a bridge between the classroom and the gradebook. Pulse Academic is that bridge — and it does not have a toll.',
         ],
       },
       {
@@ -149,6 +157,7 @@ export const blogPosts: BlogPost[] = [
         body: [
           'Pulse Academic is built around the routine teachers already use. The teacher teaches, asks a quick check-for-understanding question, and marks each student as Got It, Almost, or Needs Help.',
           'The difference is that the marks connect back to the lesson and stay available later, so the teacher can see patterns without changing the way the classroom runs.',
+          'What did the teacher say after finally finding a tracking tool that matched her pace? "Well, it is about time." (And yes, the app also tracks time spent per lesson.)',
         ],
       },
     ],
