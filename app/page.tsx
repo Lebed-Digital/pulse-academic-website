@@ -255,6 +255,53 @@ export default function Home() {
         </div>
       </section>
 
+      {/* BLOG PREVIEW */}
+      <section style={{ padding: '0 0 100px' }}>
+        <div className="section-inner">
+          <div className="section-label" style={{ marginBottom: '1rem' }}>From the blog</div>
+          <h2 className="section-heading" style={{ marginBottom: '2.5rem' }}>Latest teacher guides on <em>exit tickets.</em></h2>
+          <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(280px, 1fr))', gap: 20 }}>
+            {[
+              {
+                href: '/blog/check-for-understanding-without-grading',
+                title: 'Check for Understanding Without Grading',
+                desc: 'Simple, fast ways to measure understanding during class without adding a grading pile.',
+              },
+              {
+                href: '/blog/exit-ticket-app-vs-paper-exit-tickets',
+                title: 'Exit Ticket App vs Paper Exit Tickets',
+                desc: 'A practical comparison of speed, visibility, and planning value in real classrooms.',
+              },
+              {
+                href: '/blog/clipboard-gap-student-understanding',
+                title: 'The Clipboard Gap in Student Understanding',
+                desc: 'Why clipboard checklists miss key patterns and what to use instead.',
+              },
+            ].map((post) => (
+              <Link
+                key={post.href}
+                href={post.href}
+                style={{
+                  background: 'rgba(17,24,20,0.55)',
+                  border: '1px solid var(--border)',
+                  borderRadius: 18,
+                  padding: '24px',
+                  backdropFilter: 'blur(16px)',
+                  textDecoration: 'none',
+                }}
+              >
+                <div style={{ fontFamily: 'var(--font-display)', fontSize: '1.05rem', fontWeight: 700, color: 'var(--text)', marginBottom: 10, letterSpacing: '-0.02em' }}>{post.title}</div>
+                <p style={{ fontSize: '0.88rem', color: 'var(--text-dim)', lineHeight: 1.7, marginBottom: 12 }}>{post.desc}</p>
+                <span style={{ color: 'var(--accent-light)', fontWeight: 600, fontSize: '0.9rem' }}>Read article →</span>
+              </Link>
+            ))}
+          </div>
+          <div style={{ marginTop: 20 }}>
+            <Link href="/blog" className="btn-ghost">Browse all posts</Link>
+          </div>
+        </div>
+      </section>
+
       {/* CREATOR */}
       <section className="creator-section">
         <div className="section-inner">
