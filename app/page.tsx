@@ -1,11 +1,13 @@
 'use client';
 import { useState } from 'react';
 import Image from 'next/image';
+import Link from 'next/link';
 import { Menu, X, Upload, Lightbulb, CheckSquare, BarChart2, BookOpen, Clock } from 'lucide-react';
 import { motion } from 'framer-motion';
 import Footer from '../components/Footer';
 
 const APP_URL = 'https://pulse-academic.vercel.app';
+const PRIMARY_SITE_URL = 'https://pulseacademic.com';
 
 const btnHover = { scale: 1.04, y: -2 };
 const btnTap   = { scale: 0.96 };
@@ -35,11 +37,12 @@ export default function Home() {
       <nav>
         <div className="nav-inner">
           <div className="nav-left">
-            <a href="/" className="nav-logo">Pulse <span>Academic</span></a>
+            <Link href="/" className="nav-logo">Pulse <span>Academic</span></Link>
             <span className="nav-badge">Free</span>
           </div>
           <div className="nav-links">
             <a href="#how-it-works" className="nav-link">How It Works</a>
+            <Link href="/blog" className="nav-link">Blog</Link>
             <a href="#faq" className="nav-link">FAQ</a>
             <a href="#privacy" className="nav-link">🔒 Privacy</a>
           </div>
@@ -62,6 +65,7 @@ export default function Home() {
         {menuOpen && (
           <div className="nav-mobile-menu" onClick={() => setMenuOpen(false)}>
             <a href="#how-it-works" className="nav-mobile-link">How It Works</a>
+            <Link href="/blog" className="nav-mobile-link">Blog</Link>
             <a href="#faq" className="nav-mobile-link">FAQ</a>
             <a href="#privacy" className="nav-mobile-link">🔒 Privacy</a>
             <a href={APP_URL} className="nav-mobile-link nav-mobile-cta" target="_blank" rel="noopener noreferrer">Try It Free →</a>
@@ -226,7 +230,7 @@ export default function Home() {
       {/* FEATURES ROW */}
       <section style={{ padding: '0 0 100px' }}>
         <div className="section-inner">
-          <div className="section-label" style={{ marginBottom: '1rem' }}>What's inside</div>
+          <div className="section-label" style={{ marginBottom: '1rem' }}>What&apos;s inside</div>
           <h2 className="section-heading" style={{ marginBottom: '3rem' }}>Built for the <em>real classroom.</em></h2>
           <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(280px, 1fr))', gap: 20 }}>
             {[
@@ -366,6 +370,41 @@ export default function Home() {
               >
                 Also try ShortHand →
               </motion.a>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      {/* ACCESS OPTIONS */}
+      <section className="access-section">
+        <div className="section-inner">
+          <div className="access-card">
+            <div className="section-label">School network access</div>
+            <h2 className="access-heading">If one link is blocked, use the backup link.</h2>
+            <p className="access-sub">
+              Some school filters take time to trust new domains. Use your preferred URL first.
+              If one link does not open on your network, use the direct Vercel fallback.
+            </p>
+            <div className="access-links">
+              <a
+                href={PRIMARY_SITE_URL}
+                className="btn-ghost"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Primary site
+              </a>
+              <a
+                href={APP_URL}
+                className="btn-primary"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Direct app fallback
+              </a>
+              <Link href="/school-access" className="access-it-link">
+                Access help page
+              </Link>
             </div>
           </div>
         </div>
