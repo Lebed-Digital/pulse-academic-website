@@ -39,6 +39,7 @@ export const metadata: Metadata = {
   },
   alternates: { canonical: 'https://pulseacademic.com' },
   robots: { index: true, follow: true },
+  keywords: ['exit ticket app', 'formative assessment', 'teacher tools', 'K-12 education', 'lesson planning', 'classroom assessment', 'student mastery tracker'],
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
