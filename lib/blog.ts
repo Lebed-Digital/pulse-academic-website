@@ -51,7 +51,7 @@ export const blogPosts: BlogPost[] = [
         body: [
           'The goal is not perfect data. The goal is useful data while it can still change instruction.',
           'A fast check for understanding should answer one question: What do I need to do differently tomorrow? If the answer is clear, the system is working.',
-          'Think of it like a GPS. You do not need a perfect map — you just need enough information to make the next turn. (And unlike a GPS, you will not be told to make a U-turn in the middle of a read-aloud.)',
+          'Think of it like a GPS. You do not need a perfect map. You just need enough information to make the next turn. (And unlike a GPS, you will not be told to make a U-turn in the middle of a read-aloud.)',
         ],
       },
       {
@@ -59,7 +59,7 @@ export const blogPosts: BlogPost[] = [
         body: [
           'Pulse Academic turns that workflow into a simple classroom tool. Upload or paste your lesson plan, pick an AI-suggested exit ticket question, then tap each student into Got It, Almost, or Needs Help.',
           'The teacher still makes the professional judgment. The app just keeps the evidence organized so it does not disappear into a clipboard, a sticky note, or a tired end-of-day memory.',
-          'Why did the teacher bring a ladder to school? To help students reach the next level. Pulse Academic is the ladder — you still do the climbing.',
+          'Why did the teacher bring a ladder to school? To help students reach the next level. Pulse Academic is the ladder. You still do the climbing.',
         ],
       },
     ],
@@ -108,7 +108,7 @@ export const blogPosts: BlogPost[] = [
         body: [
           'An exit ticket app should not just collect answers. It should make tomorrow easier.',
           'When students are grouped into Got It, Almost, and Needs Help, the teacher can quickly decide who needs a warm-up review, who needs partner practice, and who needs direct intervention.',
-          'Think of it as sorting laundry — except instead of lights and darks, you are sorting students into small groups. And nobody loses a sock.',
+          'Think of it as sorting laundry, except instead of lights and darks, you are sorting students into small groups. And nobody loses a sock.',
         ],
       },
     ],
@@ -134,7 +134,7 @@ export const blogPosts: BlogPost[] = [
         body: [
           'During independent work, small group, or the last minutes of a lesson, teachers do not have time to open a complicated gradebook. They need one glance and one mark.',
           'A clipboard does that beautifully. The problem is that the information often stays trapped on paper, separated from lesson plans, student history, and tomorrow&apos;s planning.',
-          'Why did the teacher carry a clipboard everywhere? Because she needed something to lean on — and it was cheaper than a therapist.',
+          'Why did the teacher carry a clipboard everywhere? Because she needed something to lean on. Also, it was cheaper than a therapist.',
         ],
       },
       {
@@ -149,7 +149,7 @@ export const blogPosts: BlogPost[] = [
         body: [
           'Teachers do not just need to know whether a student is generally doing well. They need to know whether the student understood today&apos;s specific lesson.',
           'That is the clipboard gap: the space between daily instructional judgment and organized, reusable data.',
-          'Why did the data stay on paper? Because nobody built a bridge between the classroom and the gradebook. Pulse Academic is that bridge — and it does not have a toll.',
+          'Why did the data stay on paper? Because nobody built a bridge between the classroom and the gradebook. Pulse Academic is that bridge. And it does not have a toll.',
         ],
       },
       {
