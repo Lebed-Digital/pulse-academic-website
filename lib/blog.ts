@@ -440,6 +440,190 @@ export const blogPosts: BlogPost[] = [
     takeaway:
       'Stop waiting for the unit test to find out who is lost. Pulse Academic is the formative assessment app for teachers that puts real-time data at your fingertips, so you can teach with confidence every single day. Try it out at pulseacademic.com.',
   },
+  {
+    slug: 'effective-small-group-instruction-strategies',
+    title: 'Effective Small Group Instruction Strategies for Real Teachers',
+    description:
+      'Discover practical small group instruction strategies to manage your classroom and use real-time data to help every student succeed without the extra paperwork.',
+    date: '2026-05-07',
+    readingTime: '5 min read',
+    primaryKeyword: 'small group instruction strategies',
+    relatedKeywords: ['classroom management', 'differentiated instruction', 'formative assessment', 'student engagement'],
+    intro: [
+      'In my first year of teaching, I genuinely believed I could run three different groups at once while keeping the rest of the class perfectly silent. It was a beautiful dream that lasted about four minutes before someone decided to see if a pencil could fit inside a radiator. Twenty years later, I have finally accepted that successful small group instruction strategies are less about magic and more about having a very specific plan for the chaos.',
+      'We all want to be that teacher who reaches every single child in the room, but the reality is that we only have two hands and a finite amount of patience. Moving from a whole group lecture to a focused table session is the hardest transition of the day. It requires us to trust our students to work alone while we dive deep into the specific needs of a few, and it is usually where my best laid plans go to die if I am not careful.',
+    ],
+    sections: [
+      {
+        heading: 'Deciding Who Needs the Most Attention',
+        body: [
+          'One of the biggest hurdles is simply knowing who to pull to the back table without wasting half the period looking at old test scores. I used to rely on my gut feeling, which usually just meant I pulled the kids who were making the most noise. Now I try to be more intentional by using tools that give me a clear picture of what is happening in the moment rather than what happened last week.',
+          'I have been using Pulse Academic to help me sort this out during the actual lesson. I just paste my lesson plan into the app, and it generates a specific exit ticket question for me. As the kids work, I can quickly tap their names into groups like Got It, Almost, or Needs Help. It creates a running record of who actually understands the material right then and there, which means I am not pulling students for a review they don&apos;t actually need.',
+        ],
+      },
+      {
+        heading: 'Keeping the Rest of the Class on Track',
+        body: [
+          'The most common question I get from newer teachers is how to stop the rest of the room from turning into a circus while you are busy. My answer is always to give them work that they can do with their eyes half closed. This is not the time to introduce a brand new, complex project that requires twenty steps of instruction. If they have to get up to ask you a question, the flow of your small group is broken.',
+          'I like to use a system where students have a list of must do and may do tasks that stay consistent throughout the month. When they know exactly what the expectations are, they are much less likely to wander around the room looking for trouble. It also helps to have a designated student expert for each table who can answer minor questions so I can stay focused on the students in front of me.',
+        ],
+      },
+      {
+        heading: 'Making the Most of Your Twenty Minutes',
+        body: [
+          'When you finally have that small group settled, every minute counts. I have learned to stop trying to recreate the entire lesson at the back table. Instead, I focus on one tiny piece of the puzzle that seemed to trip everyone up. We use mini whiteboards and a lot of hands on tools because it keeps their hands busy and their minds focused on the task at hand.',
+          'I find that these sessions are the best time to build relationships because the kids feel like they have my undivided attention for a change. It is where the real growth happens and where I get to see those lightbulb moments in person. Why did the teacher bring a ladder to her small group instruction? Because she wanted to help her students reach high expectations.',
+        ],
+      },
+      {
+        heading: 'Using Real Time Data to Work Smarter',
+        body: [
+          'We are constantly told to be data driven, but I don&apos;t know a single teacher who has time to sit down and analyze a spreadsheet every evening. We need information that is fast and actionable. By tracking comprehension during the lesson, I can adjust my groups for the very next day without spending my entire Sunday afternoon grading a stack of papers that are already outdated.',
+          'This approach takes the guesswork out of my planning and makes me feel like I am actually meeting my students where they are. It is about working smarter instead of just working harder, which is a lesson it took me two decades to finally learn. After all, a teacher&apos;s time is the most precious resource in the building, and we shouldn&apos;t spend it on paperwork that doesn&apos;t help our kids.',
+        ],
+      },
+    ],
+    takeaway:
+      'Mastering small group instruction is a journey that requires the right tools and a bit of grace for yourself. You can find more ways to streamline your classroom comprehension tracking at pulseacademic.com.',
+  },
+  {
+    slug: 'writing-effective-student-learning-objectives',
+    title: 'Writing Student Learning Objectives That You Can Actually Measure',
+    description:
+      'Learn how to write specific student learning objectives that make daily assessment easier and help you close the feedback loop without the extra paperwork.',
+    date: '2026-05-08',
+    readingTime: '5 min read',
+    primaryKeyword: 'student learning objectives',
+    relatedKeywords: ['formative assessment', 'measurable goals', 'lesson planning', 'classroom data'],
+    intro: [
+      'I spent the better part of my first decade in the classroom writing student learning objectives that were so vague they could have applied to a yoga class. I would write things like &quot;students will appreciate poetry&quot; and then wonder why I couldn&apos;t figure out if they actually learned anything by Friday. It took me a long time to realize that if I don&apos;t know exactly what I am looking for, I am basically just throwing chalk at a wall and hoping some of it sticks.',
+      'Nowadays, I try to be much more precise because my time is too valuable to spend on guesswork. We all have those days where we feel like we are just surviving until the bell rings, but having a clear goal makes the whole day feel a lot less chaotic. Let&apos;s look at how we can tighten up our goals so we can spend less time grading and more time actually teaching.',
+    ],
+    sections: [
+      {
+        heading: 'The Trap of Vague Goals',
+        body: [
+          'When we write that students will &quot;understand&quot; a concept, we are setting ourselves up for a long night of grading. Understanding is a beautiful thing, but it is also invisible unless we ask our kids to do something specific with it. I used to get to the end of a lesson and realize I had no idea who actually got the point and who was just nodding along to be polite.',
+          'Vague goals are the reason we end up with those giant stacks of papers that sit on our desks until they become load bearing structures. If you can&apos;t measure it in the moment, you are going to have to measure it later, and that is usually when the burnout starts to creep in. I have learned that the more specific I am at the start of the hour, the easier my life is when the kids leave.',
+        ],
+      },
+      {
+        heading: 'Measurable Goals vs. General Ideas',
+        body: [
+          'The shift from a general idea to a measurable goal is where the magic happens. Instead of saying they will understand fractions, I say they will be able to identify three equivalent fractions using a number line. This small change makes it so much easier to look over a shoulder and see exactly where a student is getting tripped up.',
+          'It is all about choosing verbs that you can actually see in action. If I can&apos;t watch them do it or read it on a sticky note, it probably shouldn&apos;t be my main objective for the day. Why did the teacher bring a ruler to the lesson? Because she wanted to make sure her student learning objectives were measurable.',
+        ],
+      },
+      {
+        heading: 'On the Spot Assessment',
+        body: [
+          'Once you have a solid objective, writing an exit ticket becomes a ten second task instead of a chore. I have been using Pulse Academic to handle this part for me because it saves so much brain power. I just upload my lesson plan with my specific objective, and the app suggests an AI-generated exit ticket question that perfectly matches what I just taught.',
+          'It is such a relief to have a question ready to go without having to scramble at the whiteboard while the kids are packing their bags. I can just walk around the room and tap each student into a group like Got It or Needs Help right in the app. It creates a running record of their progress that I can actually use to plan for tomorrow.',
+        ],
+      },
+      {
+        heading: 'Closing the Loop',
+        body: [
+          'Closing the feedback loop is what keeps our students from falling through the cracks. When your objective and your check are perfectly aligned, you know immediately who needs an extra five minutes of your time. You aren&apos;t waiting for a unit test two weeks from now to find out that half the class missed a foundational skill.',
+          'This kind of real-time comprehension tracking makes the whole classroom feel more responsive and alive. It turns the student learning objectives from a requirement on a lesson plan into a tool that actually helps you teach better. We are all just trying to do our best for these kids, and having a clear path forward makes that mission a lot more manageable.',
+        ],
+      },
+    ],
+    takeaway:
+      'Clear objectives are the foundation of a classroom that values growth over busywork. You can start closing your own feedback loops and tracking student progress more effectively at pulseacademic.com.',
+  },
+  {
+    slug: 'stress-free-iep-progress-monitoring-tips',
+    title: 'IEP Progress Monitoring for Teachers Who Hate Paperwork',
+    description:
+      'Discover how to streamline IEP progress monitoring using daily comprehension checks and real-time data to support your students without the extra stress.',
+    date: '2026-05-09',
+    readingTime: '6 min read',
+    primaryKeyword: 'IEP progress monitoring',
+    relatedKeywords: ['special education', 'data collection', 'parent teacher communication', 'individualized education'],
+    intro: [
+      'I once spent an entire Sunday afternoon looking for a single sticky note that had a student&apos;s data on it. It was somewhere between the half-eaten sandwich and the stack of permission slips that I had forgotten to turn in. That was the moment I realized that my current method of IEP progress monitoring was essentially just a high stakes game of hide and seek with my own sanity.',
+      'We all want to do right by our students with special needs, but the sheer volume of documentation can feel like a second full time job. After two decades in the classroom, I have learned that the secret is not to work harder at the paperwork, but to make the paperwork work harder for you. Let&apos;s look at how we can track those goals without losing our minds in the process.',
+    ],
+    sections: [
+      {
+        heading: 'The Problem with the Report Card Rush',
+        body: [
+          'We have all been there. Report card season is looming, and you realize you need three months of data for a specific goal that you only remember checking once or twice. You end up scrambling to find old worksheets or trying to reconstruct the last twelve weeks from memory. It is stressful for you and, more importantly, it doesn&apos;t actually give a true picture of how the student is growing.',
+          'Waiting until the end of the quarter to check on progress is like trying to drive a car while only looking in the rearview mirror. You can see where you have been, but you can&apos;t make any adjustments to where you are going right now. I have found that collecting small bits of evidence every day is much easier than trying to dig up a mountain of proof all at once.',
+        ],
+      },
+      {
+        heading: 'Using Daily Lessons as Evidence',
+        body: [
+          'The best part about daily comprehension checks is that they double as informal evidence for those bigger IEP goals. If a student has a goal for double digit addition, every time you check their exit ticket, you are doing IEP progress monitoring. You don&apos;t need a separate, fancy assessment that takes up an hour of instructional time just to see if they are making progress.',
+          'By using what you are already doing in class, you save yourself hours of extra work. It makes the data collection feel like a natural part of the day rather than a separate burden that you have to carry. Why did the teacher bring a flashlight to the IEP meeting? Because she wanted to shed some light on her students&apos; progress.',
+        ],
+      },
+      {
+        heading: 'Streamlining Your Running Record',
+        body: [
+          'I have finally ditched the binder full of loose papers for a more digital approach that stays out of my way. Pulse Academic has been a lifesaver for this because I can upload my lesson plan and get a targeted exit ticket question immediately. Instead of grading twenty separate slips of paper, I just tap each student into a category like Got It or Almost right on my phone.',
+          'The app creates a running record of lesson-level comprehension that builds up over time. When it is time to write that progress report, I don&apos;t have to hunt for sticky notes or dig through folders. I have a clear history of how that student performed on every single lesson, which makes the whole process feel like a breeze instead of a blizzard.',
+        ],
+      },
+      {
+        heading: 'Better Conversations with Specialists',
+        body: [
+          'There is nothing better than walking into an IEP meeting and being able to show exactly when a student started to struggle or where they made a major breakthrough. Having that specific data at your fingertips makes you feel so much more professional and prepared. Parents love seeing that you have a real handle on their child&apos;s daily experience in the classroom.',
+          'It also makes your conversations with specialists much more productive because you can point to specific lessons rather than just giving a general feeling. We are all on the same team, and having a shared record of comprehension helps everyone stay on the same page. At the end of the day, it is about giving our kids the support they deserve without burning ourselves out in the process.',
+        ],
+      },
+    ],
+    takeaway:
+      'Tracking progress shouldn&apos;t be a chore that takes you away from your students. You can find better ways to manage your daily data and support your IEP progress monitoring at pulseacademic.com.',
+  },
+  {
+    slug: 'engagement-strategies-for-quiet-students',
+    title: 'Student Engagement Strategies for the Quiet Kids Who Hide',
+    description:
+      'Discover practical student engagement strategies to find the quiet students who are falling through the cracks and track their progress without the stress.',
+    date: '2026-05-10',
+    readingTime: '5 min read',
+    primaryKeyword: 'student engagement strategies',
+    relatedKeywords: ['classroom management', 'formative assessment', 'student participation', 'differentiated instruction'],
+    intro: [
+      'I once had a student who sat in the front row, nodded at everything I said, and laughed at all my bad jokes. I thought she was my star pupil until the first unit test came back and she had missed every single question. I was so embarrassed because I realized I had spent three weeks teaching a brick wall that I had mistaken for an attentive student.',
+      'It is so easy to fall into the trap of thinking that a quiet room is a learning room. We tend to focus on the vocal kids who always have their hands up, while the quiet ones just blend into the background like part of the wallpaper. Let&apos;s talk about some real student engagement strategies that actually reveal who is learning and who is just very good at pretending.',
+    ],
+    sections: [
+      {
+        heading: 'The Illusion of Understanding',
+        body: [
+          'Some students have mastered the art of looking busy without actually doing anything. They know how to hold a pencil, keep their eyes on the board, and look thoughtful whenever you walk by. It isn&apos;t that they are trying to be difficult, it is usually just that they are afraid of looking like they don&apos;t know what is going on.',
+          'When we only listen to the loud kids, we are getting a very skewed version of what is happening in our classroom. We assume that if one person understands, then everyone does, but that is rarely the case. We need to find ways to peek behind that mask of confidence and see what is actually happening in their notebooks.',
+        ],
+      },
+      {
+        heading: 'The Flaw in Asking for Questions',
+        body: [
+          'Asking &quot;does anyone have any questions?&quot; is one of the least effective student engagement strategies in existence. It is basically an invitation for the whole class to stay silent and hope that someone else speaks up first. Most students would rather walk over hot coals than admit they are lost in front of thirty of their peers.',
+          'If we want real signals, we have to stop asking for volunteers and start asking for evidence. I have learned that the best way to get a true picture of the room is to give everyone a quick, low-stakes way to show me what they know. Why did the teacher bring a fishing pole to the classroom? Because she wanted to catch all the quiet students before they drifted away.',
+        ],
+      },
+      {
+        heading: 'Using Low Pressure Signals',
+        body: [
+          'I have started using Pulse Academic to make these checks a natural part of my day. I just upload my lesson plan, and the app gives me a quick exit ticket question that I can use right then and there. It takes the pressure off the kids because they aren&apos;t being put on the spot in front of the whole class.',
+          'As I walk around and see their work, I can just tap their names in the app to sort them into groups like Got It or Needs Help. This creates a running record that tells me exactly who is struggling, even if they never raise their hand. It is so much better than waiting for a test to find out that half the room missed the most important concept.',
+        ],
+      },
+      {
+        heading: 'Revealing Hidden Gaps Early',
+        body: [
+          'When you track every student individually, you start to see patterns that you would have missed otherwise. You might notice that a student who is great at math is suddenly struggling with word problems, or that a quiet kid in the back is actually ahead of the rest of the class. It allows you to intervene early before those gaps turn into massive craters.',
+          'Closing the loop like this makes the classroom feel much more supportive for everyone involved. It isn&apos;t about catching kids doing something wrong, it is about making sure no one gets left behind just because they didn&apos;t want to speak up. We can all be better teachers when we have the right data to guide us.',
+        ],
+      },
+    ],
+    takeaway:
+      'Reaching the quietest students in your room is one of the most rewarding parts of the job. You can find more student engagement strategies and tools to track their progress at pulseacademic.com.',
+  },
 ];
 
 export function getBlogPost(slug: string) {
