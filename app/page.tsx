@@ -77,11 +77,11 @@ export default function Home() {
       <section className="hero">
         <div className="hero-inner">
           <div className="hero-content">
-            <div className="hero-eyebrow">No App Store &nbsp;·&nbsp; Works on Any Device &nbsp;·&nbsp; 100% Free</div>
-            <h1>The <em>exit ticket app</em><br />teachers actually use.</h1>
+            <div className="hero-eyebrow">Free &nbsp;·&nbsp; No App Store &nbsp;·&nbsp; Works on Any Device</div>
+            <h1>Know exactly who<br /><em>got it</em> — before<br />the bell rings.</h1>
             <p className="hero-sub">
-              Upload your lesson plan. Get AI-suggested exit ticket questions in seconds.
-              Tap students to mark Got It, Almost, or Needs Help — and see your whole class at a glance.
+              Upload your lesson plan, get an AI exit ticket question in seconds, and tap each student
+              into Got It, Almost, or Needs Help. Your whole class on one screen.
             </p>
             <div className="hero-ctas">
               <motion.a
@@ -126,26 +126,6 @@ export default function Home() {
         </div>
       </section>
 
-      {/* STATS BAR */}
-      <section className="stats-section">
-        <div className="section-inner">
-          <div className="stats-inner">
-            <div className="stat-item">
-              <div className="stat-number"><span>30</span> sec</div>
-              <div className="stat-label">from lesson plan to exit ticket</div>
-            </div>
-            <div className="stat-item">
-              <div className="stat-number">Any <span>device</span></div>
-              <div className="stat-label">phone, tablet, or computer</div>
-            </div>
-            <div className="stat-item">
-              <div className="stat-number"><span>Zero</span> install</div>
-              <div className="stat-label">no app store required</div>
-            </div>
-          </div>
-        </div>
-      </section>
-
       {/* BEFORE / AFTER */}
       <section style={{ padding: '80px 0' }}>
         <div className="section-inner">
@@ -179,6 +159,26 @@ export default function Home() {
                   <span className="ba-icon">✓</span> {item}
                 </div>
               ))}
+            </div>
+          </div>
+        </div>
+      </section>
+
+      {/* STATS BAR */}
+      <section className="stats-section">
+        <div className="section-inner">
+          <div className="stats-inner">
+            <div className="stat-item">
+              <div className="stat-number"><span>30</span> sec</div>
+              <div className="stat-label">from lesson plan to exit ticket</div>
+            </div>
+            <div className="stat-item">
+              <div className="stat-number">Any <span>device</span></div>
+              <div className="stat-label">phone, tablet, or computer</div>
+            </div>
+            <div className="stat-item">
+              <div className="stat-number"><span>Zero</span> install</div>
+              <div className="stat-label">no app store required</div>
             </div>
           </div>
         </div>
@@ -407,15 +407,6 @@ export default function Home() {
                 target="_blank" rel="noopener noreferrer"
               >
                 Try Pulse Academic Free →
-              </motion.a>
-              <motion.a
-                href="https://getshorthandapp.com"
-                className="btn-ghost"
-                whileHover={{ scale: 1.03, y: -1 }} whileTap={btnTap}
-                transition={{ type: 'spring', stiffness: 400, damping: 20 }}
-                target="_blank" rel="noopener noreferrer"
-              >
-                Also try ShortHand →
               </motion.a>
             </div>
           </div>
