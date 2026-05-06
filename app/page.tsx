@@ -4,6 +4,7 @@ import Image from 'next/image';
 import Link from 'next/link';
 import { Menu, X, Upload, Lightbulb, CheckSquare, BarChart2, BookOpen, Clock } from 'lucide-react';
 import { motion } from 'framer-motion';
+import { blogPosts } from '../lib/blog';
 import Footer from '../components/Footer';
 
 const APP_URL = 'https://pulse-academic.vercel.app';
@@ -261,26 +262,10 @@ export default function Home() {
           <div className="section-label" style={{ marginBottom: '1rem' }}>From the blog</div>
           <h2 className="section-heading" style={{ marginBottom: '2.5rem' }}>Latest teacher guides on <em>exit tickets.</em></h2>
           <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(280px, 1fr))', gap: 20 }}>
-            {[
-              {
-                href: '/blog/check-for-understanding-without-grading',
-                title: 'Check for Understanding Without Grading',
-                desc: 'Simple, fast ways to measure understanding during class without adding a grading pile.',
-              },
-              {
-                href: '/blog/exit-ticket-app-vs-paper-exit-tickets',
-                title: 'Exit Ticket App vs Paper Exit Tickets',
-                desc: 'A practical comparison of speed, visibility, and planning value in real classrooms.',
-              },
-              {
-                href: '/blog/clipboard-gap-student-understanding',
-                title: 'The Clipboard Gap in Student Understanding',
-                desc: 'Why clipboard checklists miss key patterns and what to use instead.',
-              },
-            ].map((post) => (
+            {[...blogPosts].reverse().slice(0, 3).map((post) => (
               <Link
-                key={post.href}
-                href={post.href}
+                key={post.slug}
+                href={`/blog/${post.slug}`}
                 style={{
                   background: 'rgba(17,24,20,0.55)',
                   border: '1px solid var(--border)',
@@ -291,7 +276,7 @@ export default function Home() {
                 }}
               >
                 <div style={{ fontFamily: 'var(--font-display)', fontSize: '1.05rem', fontWeight: 700, color: 'var(--text)', marginBottom: 10, letterSpacing: '-0.02em' }}>{post.title}</div>
-                <p style={{ fontSize: '0.88rem', color: 'var(--text-dim)', lineHeight: 1.7, marginBottom: 12 }}>{post.desc}</p>
+                <p style={{ fontSize: '0.88rem', color: 'var(--text-dim)', lineHeight: 1.7, marginBottom: 12 }}>{post.description}</p>
                 <span style={{ color: 'var(--accent-light)', fontWeight: 600, fontSize: '0.9rem' }}>Read article →</span>
               </Link>
             ))}

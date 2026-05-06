@@ -18,9 +18,27 @@ export const metadata: Metadata = {
 };
 
 export default function BlogIndex() {
+  const itemListJsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'ItemList',
+    name: 'Pulse Academic Blog',
+    description: 'Practical teacher guides on exit tickets, formative assessment, and classroom data.',
+    url: 'https://pulseacademic.com/blog',
+    itemListElement: blogPosts.map((post, i) => ({
+      '@type': 'ListItem',
+      position: i + 1,
+      url: `https://pulseacademic.com/blog/${post.slug}`,
+      name: post.title,
+    })),
+  };
+
   return (
     <>
       <main className="blog-shell">
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(itemListJsonLd) }}
+        />
         <nav className="blog-nav" aria-label="Blog navigation">
           <Link href="/" className="nav-logo">
             Pulse <span>Academic</span>

@@ -1,0 +1,34 @@
+# Pulse Academic
+> A free Progressive Web App built by a 3rd grade teacher to help K-12 educators run AI-generated exit tickets, check for understanding, and track formative assessment data — all in under 30 seconds per lesson.
+
+## About
+Pulse Academic was created by Gregory Lebed, a 3rd grade teacher with 20+ years of experience, to solve the daily problem of knowing which students actually understood today's lesson. It runs in the browser on any device with no app store download required.
+
+## Core Features
+- AI Exit Ticket Generator: upload a lesson plan and get 3 targeted exit ticket questions in seconds
+- Formative Assessment Grid: tap each student to mark Got It, Almost, or Needs Help — your whole class on one screen
+- Lesson Plan Tracker: upload your week's plans once; each day auto-fills when you open the app
+- History and Trends: view results by student or by lesson to see who consistently struggles with which topics
+- Week Planning: edit lessons inline, swap days, copy to next day, or skip and push forward
+- Any File Format: upload PDF, Word doc, plain text, or paste lesson notes directly
+
+## Audience
+K-12 teachers, primarily elementary and middle school educators who want fast, low-friction formative assessment without paper exit tickets or manual sorting.
+
+## Pricing
+Completely free. No subscription, no credit card, no app store download required.
+
+## Blog
+Practical teacher-written guides on exit tickets, checking for understanding, formative assessment strategies, and classroom data tools.
+URL: https://pulseacademic.com/blog
+
+## Contact
+info@getshorthandapp.com
+
+## URLs
+- Homepage: https://pulseacademic.com
+- Blog: https://pulseacademic.com/blog
+- App: https://pulse-academic.vercel.app
+- Privacy Policy: https://pulseacademic.com/privacy
+- Terms: https://pulseacademic.com/terms
+- School Access Help: https://pulseacademic.com/school-access

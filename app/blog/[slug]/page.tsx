@@ -58,8 +58,8 @@ export default async function BlogPostPage({ params }: BlogPageProps) {
     '@type': 'BlogPosting',
     headline: post.title,
     description: post.description,
-    datePublished: post.date,
-    dateModified: post.date,
+    datePublished: `${post.date}T00:00:00+00:00`,
+    dateModified: `${post.date}T00:00:00+00:00`,
     author: {
       '@type': 'Person',
       name: 'Gregory Lebed',
