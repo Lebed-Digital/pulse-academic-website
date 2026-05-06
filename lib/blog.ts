@@ -624,6 +624,62 @@ export const blogPosts: BlogPost[] = [
     takeaway:
       'Reaching the quietest students in your room is one of the most rewarding parts of the job. You can find more student engagement strategies and tools to track their progress at pulseacademic.com.',
   },
+  {
+    slug: 'what-are-formative-assessments-exit-tickets',
+    title: 'What Are Formative Assessments? (And Why Exit Tickets Are the Easiest Way to Do Them)',
+    description: 'A practical guide to formative assessments for teachers, including 5 exit ticket questions you can use this week.',
+    date: '2026-05-05',
+    readingTime: '5 min read',
+    primaryKeyword: 'formative assessment',
+    relatedKeywords: ['exit tickets for teachers', 'checking for understanding', 'formative assessment tools'],
+    intro: [
+      'We have all been there. You teach a lesson that you think went well, only to grade the unit test two weeks later and realize half the class missed the main point. It is a frustrating feeling because by the time you see the data, you have already moved on to the next chapter.',
+      'Checking for understanding needs to happen in real time. If we wait until the test to see who is struggling, we have waited too long. This is where formative assessments come in.',
+    ],
+    sections: [
+      {
+        heading: 'Formative vs Summative, The One-Sentence Difference',
+        body: [
+          'Think of it this way. A summative assessment is like a final medical exam, while a formative assessment is like a quick pulse check during a checkup to see how the patient is doing right now.',
+        ],
+      },
+      {
+        heading: 'Why Exit Tickets Work (When They&apos;re Done Right)',
+        body: [
+          'Exit tickets are one of the most effective ways to get this data without adding hours to your grading pile. They give every student a voice, even the ones who never raise their hand during the lesson. When you use them correctly, they provide a quick snapshot of where the class stands before they leave the room.',
+          'The key is keeping them focused. You do not need a ten-question quiz to know if they understood the day&apos;s objective. You just need one or two targeted questions that reveal their thinking.',
+        ],
+      },
+      {
+        heading: '5 Exit Ticket Questions You Can Use This Week',
+        body: [
+          'If you are looking for ways to mix up your routine, here are five questions that work in almost any middle or high school classroom.',
+          'First, try a simple recall question. Ask students to name the most important thing they learned today and explain why it matters. This forces them to synthesize the lesson into one main idea.',
+          'Second, use the &quot;muddiest point&quot; prompt. Ask students what part of the lesson is still confusing to them. This is often the most valuable feedback you can get.',
+          'Third, try a confidence check. Ask students to rate their understanding of today&apos;s topic on a scale of one to five and explain their rating.',
+          'Fourth, ask for a real-world application. Ask how they could use what they learned today in a different context outside of the classroom.',
+          'Fifth, try a &quot;stoplight&quot; question. Ask them what they should keep doing, what they should stop doing, and what they should start doing to be successful in the current unit.',
+        ],
+      },
+      {
+        heading: 'The Problem With Paper Exit Tickets',
+        body: [
+          'While paper slips are a classic, they come with a lot of baggage. You end up with a stack of tiny scraps that are easy to lose and even easier to ignore when you are tired at the end of the day.',
+          'The data usually just sits in a pile on your desk. By the time you find the twenty minutes to sort through them and find the common mistakes, you are already halfway through the next lesson. Manual tracking is just hard to sustain in a busy classroom.',
+        ],
+      },
+      {
+        heading: 'How Pulse Academic Makes Exit Tickets Automatic',
+        body: [
+          'This is exactly why we built the exit ticket tools in Pulse Academic. We wanted to take the manual labor out of checking for understanding so you can actually use the information you gather.',
+          'In the app, you can simply upload your lesson plan and let the AI generate three targeted exit ticket questions instantly. You can pick the one that fits best, or use all three. Students answer right on their own devices, and you get a clear report of their responses before the bell even rings.',
+          'It turns a chore into a routine part of your teaching. You no longer have to spend your prep time writing questions or your evenings sorting paper slips.',
+        ],
+      },
+    ],
+    takeaway:
+      'If you want to stop guessing and start knowing what your students actually understand, head over to pulseacademic.com. It is time to make formative assessment a natural part of your day.',
+  },
 ];
 
 export function getBlogPost(slug: string) {
