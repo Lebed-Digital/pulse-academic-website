@@ -680,6 +680,138 @@ export const blogPosts: BlogPost[] = [
     takeaway:
       'If you want to stop guessing and start knowing what your students actually understand, head over to pulseacademic.com. It is time to make formative assessment a natural part of your day.',
   },
+  {
+    slug: 'best-formative-assessment-apps-elementary-2026',
+    title: 'Best Formative Assessment Apps for Elementary Teachers (2026)',
+    description: 'An honest look at the best formative assessment apps for elementary teachers in 2026, comparing Kahoot, Nearpod, Seesaw, and Pulse Academic.',
+    date: '2026-05-06',
+    readingTime: '5 min read',
+    primaryKeyword: 'formative assessment apps',
+    relatedKeywords: ['classroom technology', 'checking for understanding', 'teacher tools'],
+    intro: [
+      'Finding the right tool for your classroom can feel like a part time job. With so many options available, it is easy to get caught up in the flashy animations and forget what you actually need the app to do for your students.',
+      'Elementary teachers have specific needs. You need tools that are easy for kids to use but also provide you with clear information to help plan your next lesson. Here is an honest look at the best formative assessment apps for 2026.',
+    ],
+    sections: [
+      {
+        heading: 'Engagement and Review with Kahoot and Quizlet',
+        body: [
+          'Apps like Kahoot and Quizlet are excellent for high energy review sessions. They turn vocabulary and facts into a competition, which can be a great way to start or end a unit. Students love the music and the leaderboard, and it definitely gets them excited about the content.',
+          'The downside is that these apps are better for engagement than for deep understanding. They tell you who is fast, but they don&apos;t always tell you why a student is struggling with a specific concept. They are best used as a supplement to your main instruction.',
+        ],
+      },
+      {
+        heading: 'Interactive Delivery with Nearpod',
+        body: [
+          'Nearpod is a powerhouse for delivering lessons. It allows you to embed questions, polls, and even virtual field trips directly into your slides. This keeps students focused because they are constantly interacting with the material instead of just listening to a lecture.',
+          'It is a fantastic tool for whole class instruction. However, setting up a full Nearpod lesson every single day can be time consuming for a busy teacher. It works best for those big, complex topics that need a lot of visual support.',
+        ],
+      },
+      {
+        heading: 'Documenting Work with Seesaw',
+        body: [
+          'Seesaw remains the gold standard for digital portfolios. It is perfect for capturing student work through photos, videos, and voice recordings. Parents love seeing the actual evidence of what their children are doing in class throughout the week.',
+          'While it is great for documentation, it can become overwhelming to manage. Approving every single post takes time, and it isn&apos;t always the fastest way to get a quick check on who understood today&apos;s math objective.',
+        ],
+      },
+      {
+        heading: 'Daily Clarity with Pulse Academic',
+        body: [
+          'If your goal is to know exactly where every student stands at the end of every lesson, Pulse Academic is built for that specific purpose. It isn&apos;t a game or a portfolio. It is a simple way to run daily exit tickets that give you clear data without the extra noise.',
+          'The app uses your lesson plan to generate questions that match your objectives, and then it organizes the results so you can see who needs help immediately. It makes the transition from teaching to grouping much faster. I once spent my entire lunch break looking for a stapler that was in my hand the whole time.',
+        ],
+      },
+    ],
+    takeaway: 'Choose the tool that matches your specific goal for the day instead of trying to use one app for everything.',
+  },
+  {
+    slug: 'how-to-group-students-by-data',
+    title: 'How to Group Students by Data: A Step-by-Step Guide for Teachers',
+    description: 'Learn how to move past gut feelings and use daily exit ticket data to create effective instructional groups for your students.',
+    date: '2026-05-06',
+    readingTime: '5 min read',
+    primaryKeyword: 'how to group students by data',
+    relatedKeywords: ['differentiation', 'small group instruction', 'data driven teaching'],
+    intro: [
+      'Most teachers have a natural instinct for which students are struggling. We see the confused looks and the hesitant hands during the lesson, and we use that gut feeling to decide who to check on first during independent work.',
+      'While intuition is valuable, it doesn&apos;t always tell the whole story. Some students are great at hiding their confusion, while others might look lost but actually have a solid grasp of the material. Moving to a data driven approach helps ensure your small groups are actually effective.',
+    ],
+    sections: [
+      {
+        heading: 'The Problem with Gut Feelings',
+        body: [
+          'Relying solely on your observations can lead to missing the quiet students who are slowly falling behind. It is easy to gravitate toward the students who ask the most questions, but that doesn&apos;t mean they are the only ones who need your help.',
+          'Using objective data removes the bias from your grouping. It allows you to see exactly where the misconceptions are happening across the entire class, not just with the loudest voices. It makes your teaching more precise and your time more valuable.',
+        ],
+      },
+      {
+        heading: 'What Data to Collect',
+        body: [
+          'You don&apos;t need a massive spreadsheet to group your students effectively. You just need a quick snapshot of their understanding of the specific objective you taught today. A simple one or two question check is often enough to see who has it and who doesn&apos;t.',
+          'The best data comes from questions that require students to show their thinking, not just pick a multiple choice answer. When you can see the process they used, you can identify the exact step where they went wrong.',
+        ],
+      },
+      {
+        heading: 'Sorting into Three Groups',
+        body: [
+          'Once you have your data, sort your students into three simple piles. The first group has it and is ready to move on. The second group almost has it but made a simple mistake. The third group is lost and needs a completely different approach.',
+          'This method keeps your small groups focused and ensures no one is sitting through a lesson they already understand. I have a collection of pens that don&apos;t work, and I still won&apos;t throw them away.',
+        ],
+      },
+      {
+        heading: 'How Pulse Academic Automates the Process',
+        body: [
+          'Pulse Academic automates this sorting for you. When students finish their exit ticket, the app looks at the results and suggests groups based on their level of understanding. You can then adjust those groups as needed before your small group block begins.',
+          'It turns a manual task into a quick check that happens in the background while you are teaching. It helps you stay organized and ensures your data actually influences your instruction every day. It makes the transition from whole class to small group feel much more natural.',
+        ],
+      },
+    ],
+    takeaway: 'Group your students based on today&apos;s exit ticket data to make your small group time more effective.',
+  },
+  {
+    slug: 'exit-ticket-ideas-middle-school',
+    title: 'Exit Ticket Ideas for Middle School (That Students Won&apos;t Roll Their Eyes At)',
+    description: 'Five practical exit ticket ideas for middle school students that encourage honest feedback without the eye rolls.',
+    date: '2026-05-06',
+    readingTime: '5 min read',
+    primaryKeyword: 'exit ticket ideas middle school',
+    relatedKeywords: ['middle school teaching', 'student feedback', 'checking for understanding'],
+    intro: [
+      'Middle schoolers are a unique group. They are quick to spot anything that feels like busy work, and they aren&apos;t afraid to show their boredom. If your exit tickets feel too childish or too much like a formal quiz, they will stop giving you honest effort.',
+      'The goal is to find a balance between getting the data you need and keeping the task low stakes enough that they actually engage with it. Here are a few ways to check for understanding that respect their maturity and their time.',
+    ],
+    sections: [
+      {
+        heading: 'Why Middle Schoolers Resist',
+        body: [
+          'At this age, students are very sensitive to how they are perceived by their peers. If an exit ticket feels like it is testing them in a way that might expose their weaknesses, they might shut down or give a generic answer just to get it over with.',
+          'Resistance often comes from a place of wanting to be done with the day. By keeping the tasks short and focused on their own perspective, you can lower that wall of resistance and get better feedback.',
+        ],
+      },
+      {
+        heading: 'Five Formats for Success',
+        body: [
+          'Quick ranking questions are great for gauging confidence. One sentence summaries force students to be concise. Emoji check ins are fast and low stakes for students who are tired and ready for the bell to ring.',
+          'Other formats include a quick prediction about the next lesson or a simple question about how the lesson could have been clearer. These formats work because they don&apos;t feel like a test. They feel like a quick check in.',
+        ],
+      },
+      {
+        heading: 'The Power of the Muddiest Point',
+        body: [
+          'The muddiest point is a classic for a reason. It asks students to identify the one thing that is still confusing to them. It is much more effective than asking if they have any questions, which usually results in silence.',
+          'Middle schoolers are often more comfortable writing down their confusion than saying it out loud. This gives you a clear roadmap for your bell ringer the next morning. My desk is a vertical filing system that only I understand.',
+        ],
+      },
+      {
+        heading: 'Automatic Generation with Pulse Academic',
+        body: [
+          'Pulse Academic helps by generating these types of varied questions automatically. You can upload your lesson plan and the AI will suggest a ranking question, a summary prompt, or a muddiest point check in that matches your specific content.',
+          'This keeps things fresh for your students so they don&apos;t get bored with the same format every day. It makes it easier to get the honest feedback you need to keep your lessons on track without having to brainstorm new ideas every afternoon.',
+        ],
+      },
+    ],
+    takeaway: 'Keep your exit tickets short and varied to keep middle school students engaged in the reflection process.',
+  },
 ];
 
 export function getBlogPost(slug: string) {
