@@ -46,6 +46,8 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
   return (
     <html lang="en" className={`${spaceGrotesk.variable} ${inter.variable}`}>
       <head>
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-27T0CEVZ9L"></script>
+        <script dangerouslySetInnerHTML={{ __html: `window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-27T0CEVZ9L');` }} />
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
           "@context": "https://schema.org",
           "@type": "SoftwareApplication",
