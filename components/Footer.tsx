@@ -16,7 +16,7 @@ export default function Footer() {
         <Link href="/terms" className="footer-link">Terms of Service</Link>
         <a href="https://getshorthandapp.com" className="footer-link" target="_blank" rel="noopener noreferrer">ShortHand</a>
       </div>
-      <div className="footer-copy">Copyright 2026 Pulse Academic. All rights reserved.</div>
+      <div className="footer-copy">© 2026 Lebed Digital LLC. All rights reserved.</div>
     </footer>
   );
 }
