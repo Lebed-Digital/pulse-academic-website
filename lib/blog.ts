@@ -812,6 +812,123 @@ export const blogPosts: BlogPost[] = [
     ],
     takeaway: 'Keep your exit tickets short and varied to keep middle school students engaged in the reflection process.',
   },
+  {
+    slug: 'ai-generated-exit-tickets',
+    title: 'How to Write AI-Generated Exit Tickets for Any Subject',
+    description:
+      'Stop wasting your planning period writing exit tickets from scratch. Learn what makes a good question and how AI tools can generate them in seconds.',
+    date: '2026-05-17',
+    readingTime: '5 min read',
+    primaryKeyword: 'AI-generated exit tickets',
+    relatedKeywords: ['formative assessment', 'lesson planning', 'teacher productivity', 'exit ticket ideas'],
+    intro: [
+      'If I had a nickel for every time I realized I forgot to write an exit ticket with five minutes left in the class period, I could probably fund my own classroom library. We all know that checking for understanding is the holy grail of teaching. But when you are juggling parent emails, grading, and trying to remember if you drank water today, writing a perfectly crafted question for the end of the lesson often falls to the bottom of the pile.',
+      'That usually leads to the classic panic move of asking students to simply write down one thing they learned on a sticky note. While that is better than nothing, it does not actually tell you if they grasped the core concept you just spent forty minutes explaining. The truth is that teachers waste an incredible amount of time trying to reinvent the wheel every single day. We stare at a blank screen trying to formulate the perfect question when our energy would be much better spent actually analyzing the student responses.',
+      'This is exactly where AI-generated exit tickets change the entire game. Instead of relying on caffeine and sheer willpower at the end of a long day, you can let technology do the heavy lifting. By feeding your lesson plan into an intelligent tool, you can get highly specific, standard-aligned questions in the blink of an eye. Let us talk about why this is such a massive relief for tired teachers everywhere.',
+    ],
+    sections: [
+      {
+        heading: 'The Problem with Writing from Scratch',
+        body: [
+          'Let us be honest about what happens during a typical planning period. You sit down with the best intentions to map out your assessments for the week. Then the principal walks in, a student needs help with a locker, and suddenly you have three minutes left before the bell rings. Writing exit tickets from scratch in those conditions means you are rarely producing your best work. You end up with vague questions that yield vague answers.',
+          'The mental load of teaching is already staggering. Forcing yourself to act as an assessment designer on top of being an instructor, counselor, and referee is just a recipe for burnout. When we rush the assessment creation process, we often fail to target the specific misconception we need to catch before the next lesson. We need to stop pretending that doing everything the hard way makes us better educators.',
+        ],
+      },
+      {
+        heading: 'What Makes a Truly Good Exit Ticket',
+        body: [
+          'A valuable exit ticket does one specific job. It tells you exactly who is ready to move on and who needs a small group intervention tomorrow. It should never take more than three minutes for a student to complete. If it looks like a quiz, it is entirely too long and will only cause anxiety as they are trying to pack their backpacks.',
+          'The best questions are tightly focused on the singular objective of your lesson. They do not introduce new concepts or trick terminology. They give the student a clear opportunity to demonstrate mastery or reveal a specific point of confusion. Achieving this level of clarity takes practice and time, which are two things most classroom teachers simply do not have in abundance.',
+        ],
+      },
+      {
+        heading: 'How AI Tools Solve the Time Crunch',
+        body: [
+          'Imagine taking the lesson plan you already wrote, feeding it into a system, and instantly receiving a targeted question that gets right to the heart of your objective. That is the magic of AI-generated exit tickets. You are not replacing your professional judgment. You are simply giving yourself a competent assistant who works at lightning speed.',
+          'Tools like Pulse Academic make this incredibly seamless. You upload your lesson plan, get an AI exit ticket instantly, and then tap each student into Got It, Almost, or Needs Help right on your device. You are no longer spending your precious weekend hours writing questions. Instead, you are using those minutes to actually figure out how you are going to help the students who landed in the Needs Help category.',
+        ],
+      },
+    ],
+    takeaway: 'Stop spending your prep period writing questions. Let AI handle the creation so you can focus on the instruction.',
+  },
+  {
+    slug: 'weekly-lesson-plan-template-elementary',
+    title: 'Why Your Weekly Lesson Plan Template Is Not Working',
+    description:
+      'Generic weekly lesson plan templates for elementary teachers often fall apart by Tuesday. Learn how to connect your plans to real student comprehension data.',
+    date: '2026-05-18',
+    readingTime: '6 min read',
+    primaryKeyword: 'weekly lesson plan template elementary',
+    relatedKeywords: ['lesson planning', 'teacher organization', 'elementary education', 'data informed planning'],
+    intro: [
+      'Over the last two decades in the classroom, I have downloaded more beautifully formatted planning pages than I care to admit. Every August, I convince myself that this new layout with the pastel headers will finally be the thing that keeps me perfectly organized. By the second week of October, that pristine document is usually covered in crossed out boxes, coffee stains, and sticky notes pointing in all directions.',
+      'The hard truth is that a generic weekly lesson plan template for elementary teachers is often nothing more than a wish list. We map out our Monday through Friday sequence assuming that every single child will grasp every concept exactly on schedule. Anyone who has ever spent more than an hour with a room full of nine year olds knows that this is a complete fantasy. A rigid template forces us to march forward regardless of whether the kids are actually following along.',
+      'A truly useful planning system does not just track what page of the textbook you are on. It must be flexible enough to respond to what your students actually need. When we shift our focus from merely filling in little boxes to genuinely connecting our lesson plans to comprehension data, the entire rhythm of our week changes for the better. Let us look at how to build a routine that actually survives contact with reality.',
+    ],
+    sections: [
+      {
+        heading: 'Where Generic Templates Fail Us',
+        body: [
+          'Most templates you find online treat teaching like a manufacturing assembly line. They give you a neat little rectangle for Tuesday math and another for Wednesday reading. They do not leave room for the fire drill that interrupted your fraction introduction or the fact that half the class stared at you blankly when you explained main idea. They prioritize pacing guides over human beings.',
+          'When you rely solely on these rigid structures, you start feeling guilty when you inevitably fall behind. You find yourself rushing through explanations just so you can check a box and feel accomplished. That is a terrible way to teach and a stressful way to live. We need systems that expect interruptions and welcome reteaching as a normal part of the process.',
+        ],
+      },
+      {
+        heading: 'What a Useful Template Actually Tracks',
+        body: [
+          'Instead of just listing the topic for the day, a realistic planning system reserves space for reaction. It should prompt you to ask who needs a small group review before the whole class moves on. It must include flexible blocks of time that can absorb the overflow from the day before. If your plan does not have built in breathing room, it will suffocate you by Thursday.',
+          'You also need a clear way to track which specific skills are lingering as problems for your students. This is where connecting your daily activities to immediate feedback becomes absolutely essential. Your plan for tomorrow should always be heavily influenced by what happened today, rather than what you guessed would happen three weeks ago when you wrote your scope and sequence.',
+        ],
+      },
+      {
+        heading: 'Connecting Planning to Comprehension Data',
+        body: [
+          'The magic happens when your planning document talks directly to your assessment data. If you know exactly who missed the mark on Monday, your Tuesday small group block writes itself. You stop guessing and start targeting exactly what the kids need. This completely eliminates the Sunday night panic of trying to invent meaningful activities out of thin air.',
+          'Using a system like Pulse Academic simplifies this connection beautifully. Teachers can upload a lesson plan, get an AI exit ticket instantly, and tap each student into Got It, Almost, or Needs Help categories. When you sit down with your weekly lesson plan template elementary layout on Friday afternoon, you have concrete data telling you exactly how to structure the upcoming week.',
+        ],
+      },
+    ],
+    takeaway: 'Ditch the rigid boxes and adopt a planning routine that leaves room for real student data to drive your instruction.',
+  },
+  {
+    slug: 'how-to-use-student-data-to-plan-lessons',
+    title: 'How to Use Student Data to Plan Your Next Week',
+    description:
+      'Learn the difference between gut-feel planning and data-informed planning, and why the feedback loop between assessments and lesson plans is crucial.',
+    date: '2026-05-19',
+    readingTime: '5 min read',
+    primaryKeyword: 'how to use student data to plan lessons',
+    relatedKeywords: ['student comprehension data', 'data driven instruction', 'reteaching strategies', 'exit ticket data'],
+    intro: [
+      'Early in my career, my lesson planning strategy consisted mostly of crossing my fingers and hoping the kids were following along. I would look out at a sea of nodding heads, assume everyone understood long division, and confidently write down the next step in my planbook. It took me a few embarrassing unit test results to realize that a nodding head often just means a child is very polite and desperately wants me to stop talking.',
+      'Relying on gut instinct to guide your pacing is a trap that catches even the most well meaning educators. We want to believe our brilliant analogies hit home, so we accept the enthusiastic answers from our three most vocal students as proof that the entire room has mastered the standard. That illusion shatters quickly when you actually look at the cold hard facts of what they produce independently.',
+      'Understanding how to use student data to plan lessons is the absolute boundary line between surviving the school year and actually moving the needle for your kids. When you replace guesswork with concrete evidence of comprehension, your planning time becomes incredibly efficient. Let us explore how to build a reliable feedback loop that catches confusion before it turns into a permanent learning gap.',
+    ],
+    sections: [
+      {
+        heading: 'Gut Feel vs Data Informed Planning',
+        body: [
+          'Gut feel planning is exhausting because it is built on anxiety. You lie awake at night wondering if you moved too fast or if you should review that concept one more time. You end up planning broad, sweeping review games that waste the time of the kids who already understand the material while still failing to pinpoint the specific struggles of the kids who are lost.',
+          'Data informed planning removes the emotion from the equation. It gives you permission to move forward confidently when the numbers say the class is ready. More importantly, it highlights the exact group of four students who need five minutes of your time tomorrow morning. You stop trying to teach everything to everyone and start acting like a targeted intervention specialist.',
+        ],
+      },
+      {
+        heading: 'Spotting Who Needs Reteaching Immediately',
+        body: [
+          'The secret to catching gaps early is gathering information while the lesson is still fresh. If you wait until Friday to give a quiz on something you taught on Monday, you have lost four days of potential correction time. You need a mechanism that acts like a thermometer at the end of every single lesson.',
+          'When you have that immediate read on the room, you can quietly pull aside the students who missed the mark before the next major lesson begins. They do not fall further behind, and you do not have to stop the momentum of the entire class. This subtle shifting of resources is the hallmark of a veteran teacher who knows how to work smarter instead of harder.',
+        ],
+      },
+      {
+        heading: 'The Essential Feedback Loop',
+        body: [
+          'Your end of class assessments and your lesson plans must speak to each other constantly. If an exit ticket shows widespread confusion, your plan for the next day must be immediately thrown out and rewritten. This feedback loop is the single most important routine you can establish in your classroom.',
+          'This used to take me hours of grading on the couch, but tools like Pulse Academic have completely changed my workflow. Teachers upload a lesson plan, get an AI exit ticket, and tap each student into Got It, Almost, or Needs Help right then and there. Knowing how to use student data to plan lessons becomes effortless when the tool does the sorting for you, leaving you free to just focus on the teaching.',
+        ],
+      },
+    ],
+    takeaway: 'Stop guessing what your students know. Use immediate comprehension data to guide your planning and close learning gaps before they grow.',
+  },
 ];
 
 export function getBlogPost(slug: string) {
