@@ -929,6 +929,144 @@ export const blogPosts: BlogPost[] = [
     ],
     takeaway: 'Stop guessing what your students know. Use immediate comprehension data to guide your planning and close learning gaps before they grow.',
   },
+  {
+    slug: 'what-to-do-after-exit-tickets',
+    title: "What to Do After Exit Tickets: A Teacher's Guide to the Next Morning",
+    description:
+      'Learn how to effectively sort exit tickets and use formative assessment data to guide your small group instruction and next day lesson planning.',
+    date: '2026-05-20',
+    readingTime: '5 min read',
+    primaryKeyword: 'what to do after exit tickets',
+    relatedKeywords: ['reteaching strategies', 'small group instruction', 'next day lesson planning', 'formative assessment data'],
+    intro: [
+      'I have lost count of how many times I have enthusiastically collected a beautiful stack of exit tickets, placed them carefully in my bag, and taken them for a very scenic drive home and back. They rode shotgun while I bought groceries, they sat next to me while I ate dinner, and they returned to school the next morning completely untouched. Collecting the data is the easy part. The real challenge, and the part they never quite prepare you for in your education courses, is figuring out what to do after exit tickets actually land on your desk.',
+      'We read countless articles about how to craft the perfect end of class question. We know we need to assess our students before they walk out the door. But standing there the next morning with twenty five messy half sheets of paper can feel completely paralyzing. You have ten minutes before the bell rings, and you are trying to figure out how to teach today\'s lesson when clearly half the room completely missed the point of yesterday.',
+      'The secret to keeping your sanity is establishing a system that immediately dictates your next steps. Once you figure out a routine for processing that end of lesson feedback, your entire week runs smoother. Let us walk through the exact steps you can take to make that stack of paper actually work for you instead of just mocking you from the passenger seat of your car.',
+    ],
+    sections: [
+      {
+        heading: 'The Magic of the Three Pile Sort',
+        body: [
+          'The moment the kids leave the room, your only job is sorting. Do not write extensive feedback on these slips. You simply need to divide them into three distinct piles based on their answers: Got It, Almost, and Needs Help. This quick sorting process shifts your mindset from grading a stack of papers to diagnosing the health of your classroom.',
+          'When you force yourself to categorize them immediately, you are capturing the data while the lesson is still entirely fresh in your mind. You will immediately spot if that analogy you used for long division actually landed or if it just confused everyone further. This three pile system is the absolute core of effective reteaching strategies because it is entirely action oriented.',
+        ],
+      },
+      {
+        heading: 'Action Plan for the First Fifteen Minutes',
+        body: [
+          'The next morning, your game plan is already written. The students in your Got It pile are ready for the main lesson. The students in your Almost pile probably just made a small computational error and just need a quick reminder. The Needs Help group is where you are going to spend your first fifteen minutes of class.',
+          'While the rest of the room is working on a warm up activity, you pull that Needs Help group to your kidney table. You do not reteach the entire lesson from yesterday. You simply target the exact misconception that landed them in that pile. This highly focused small group instruction prevents a minor misunderstanding from snowballing into a major learning gap.',
+        ],
+      },
+      {
+        heading: 'Shifting Your Planning Mindset',
+        body: [
+          'When you start relying on next day lesson planning driven by actual data, the anxiety of teaching begins to fade. You are no longer guessing what they need. You are responding to what they just showed you. This means you might not get to page forty two in the textbook today, and you have to be perfectly okay with that.',
+          'Flexible planning is the hallmark of a veteran teacher. We know that the pacing guide is a suggestion, but the students sitting in front of us are the reality. If eight kids are in the Needs Help pile, pushing forward with new material is just going to guarantee they fail the unit test on Friday.',
+        ],
+      },
+      {
+        heading: 'Saving Your Sunday Evenings',
+        body: [
+          'The biggest benefit of mastering formative assessment data is what it does for your weekends. We all dread the Sunday night panic of trying to write a week of lesson plans out of thin air. When you have been tracking comprehension daily, your Friday afternoon plans practically write themselves because you know exactly where the gaps are.',
+          'This is why I started using Pulse Academic to streamline the whole process. Instead of shuffling physical papers, I just upload my lesson plan, get an AI generated exit ticket instantly, and tap each student into Got It, Almost, or Needs Help right on my phone. The data is instantly sorted for me. By the time the bell rings, my reteaching groups for tomorrow are already built, and my weekend is entirely my own.',
+        ],
+      },
+    ],
+    takeaway: 'Stop letting unread exit tickets ride around in your car and start turning that data into action with pulseacademic.com.',
+  },
+  {
+    slug: 'bell-ringer-ideas-elementary',
+    title: 'Why Generic Bell Ringer Ideas for Elementary Need to Go',
+    description:
+      'Discover why random warm up activities waste time and how to connect your morning bell ringer directly to yesterday\'s comprehension data.',
+    date: '2026-05-21',
+    readingTime: '5 min read',
+    primaryKeyword: 'bell ringer ideas elementary',
+    relatedKeywords: ['bell ringer activities', 'warm up activities for class', 'morning routine for teachers', 'reviewing prior lesson'],
+    intro: [
+      'If you look at my search history from my first few years of teaching, you will find an embarrassing number of queries for fun morning warm ups. I spent hours scrolling through Pinterest looking for cute riddles, inspirational quotes, and word searches to put on the board before the kids walked in. I thought the goal was simply to keep them quiet and in their seats while I scrambled to take attendance and find my coffee mug.',
+      'The problem with the endless search for bell ringer ideas elementary teachers engage in is that we are treating those first ten minutes as a holding pattern. We throw up a motivational quote about a soaring eagle, the kids collectively groan, and we waste a perfectly good opportunity for actual learning. Those first few minutes of the day are prime real estate for a teacher, and filling them with trivia is a massive missed opportunity.',
+      'When we reframe our morning routine for teachers and students alike, everything changes. The warm up should never be random. It should be the direct, logical follow up to whatever happened at the end of the day yesterday. Let us talk about how to connect your morning bell ringer to real comprehension data.',
+    ],
+    sections: [
+      {
+        heading: 'The Trap of the Busy Work Warm Up',
+        body: [
+          'We all fall into the busy work trap because it feels safe. A word scramble keeps them occupied and gives us a moment to breathe. But kids are incredibly perceptive, and they figure out very quickly which assignments actually matter and which ones are just filler. When your morning activity is disconnected from your curriculum, they stop putting effort into it by October.',
+          'More importantly, generic bell ringer activities rob you of instructional time. You only have so many hours in the week. Spending ten minutes a day on arbitrary trivia adds up to hours of lost academic time over the course of a school year. We have to make those minutes count.',
+        ],
+      },
+      {
+        heading: 'Connecting Yesterday to Today',
+        body: [
+          'The absolute best warm up activities for class are the ones that target exactly what went wrong yesterday. If you gave an exit ticket on Tuesday afternoon, your Wednesday morning bell ringer should address the most common mistake you saw on those tickets. This creates a seamless bridge between your lessons.',
+          'When you are reviewing prior lesson concepts immediately the next morning, you are reinforcing the idea that learning is continuous. It tells the students that you actually read their work and that their struggles matter to you. This builds incredible trust in your classroom environment.',
+        ],
+      },
+      {
+        heading: 'Creating Targeted Morning Groups',
+        body: [
+          'Not everyone needs the same bell ringer. If you know that six students completely misunderstood yesterday\'s math concept, their morning task should look different than the rest of the room. While the majority of the class works on an extension question, you can pull those six kids aside for immediate intervention.',
+          'This targeted approach turns a chaotic morning into a highly efficient review session. You are no longer hoping the material sticks. You are actively ensuring it does before you introduce the next complicated step in your unit.',
+        ],
+      },
+      {
+        heading: 'Automating the Connection',
+        body: [
+          'The trick to making this work is having your data organized before you leave the building the day before. If you have to spend your morning analyzing data, you are already too late to create a targeted bell ringer. You need a system that gives you the answers instantly.',
+          'This is where a tool like Pulse Academic becomes a lifesaver. You can upload a lesson plan, get an AI generated exit ticket, and just tap the kids into Got It, Almost, or Needs Help. When you walk in the next morning, you know exactly what your bell ringer needs to be and exactly which kids need your attention first.',
+        ],
+      },
+    ],
+    takeaway: 'Stop wasting your morning minutes on random riddles and start using that time to close real learning gaps with pulseacademic.com.',
+  },
+  {
+    slug: 'anecdotal-notes-for-students',
+    title: 'Making Anecdotal Notes for Students Actually Work in Elementary',
+    description:
+      'Learn why the clipboard and sticky note system fails in K-5 classrooms and how to modernize your teacher data collection for real results.',
+    date: '2026-05-22',
+    readingTime: '5 min read',
+    primaryKeyword: 'anecdotal notes for students',
+    relatedKeywords: ['anecdotal records', 'classroom observation notes', 'student progress tracking', 'teacher data collection'],
+    intro: [
+      'During my second year of teaching, my principal told me I needed to keep better anecdotal notes. Determined to be the organized professional I was pretending to be, I bought a brand new clipboard and a giant pack of neon sticky notes. I walked around the room during reading groups proudly scribbling little observations. I felt like a brilliant educational scientist right up until I accidentally washed a sticky note that was left in my pocket.',
+      'I spent ten minutes trying to decipher a blue ink blob to figure out if Jimmy struggled with fractions or if he just had a fight with his best friend at recess. The clipboard and sticky note system is a wonderful fantasy. It looks great in a catalog, but in a real classroom with twenty five kids moving at warp speed, it completely falls apart. The reality is that K-5 teachers need a much more rugged system for tracking student progress.',
+      'Anecdotal notes for students are incredibly valuable, but only if you can actually read them and use them later. When we cling to outdated methods of data collection, we end up doing twice the work for half the benefit. Let us look at what a realistic note taking system actually looks like in a modern elementary classroom.',
+    ],
+    sections: [
+      {
+        heading: 'Why the Old System Breaks Down',
+        body: [
+          'The classic advice for anecdotal records usually comes from early childhood settings. If you have eight preschoolers sitting in a circle, you have time to write a lovely paragraph about how Sarah held her crayon. When you are teaching fourth grade math to a room full of energetic ten year olds, you do not have time to write paragraphs. You barely have time to breathe.',
+          'The clipboard method fails because it is not searchable and it is not easily synthesized. At the end of the week, you just have a stack of messy notes that you have to manually sort through. This kind of teacher data collection is exhausting and usually results in the clipboard gathering dust by November.',
+        ],
+      },
+      {
+        heading: 'What Notes Actually Need to Be',
+        body: [
+          'Useful classroom observation notes share three specific traits. They are fast, they are specific, and they are tied directly to an academic standard. You do not need to document every single thing a child says. You just need to know if they crossed the finish line of your daily objective.',
+          'A good note should take less than five seconds to record. It should serve as a quick flag planted in the ground, reminding you to circle back to that student tomorrow. If your system takes longer than five seconds per kid, you are never going to maintain it during a chaotic Friday afternoon.',
+        ],
+      },
+      {
+        heading: 'The Shift to Immediate Sorting',
+        body: [
+          'The best way to track student progress is to abandon the idea of writing out long sentences entirely. Instead of writing that Jimmy struggled with the second step of long division, you just need a way to quickly flag Jimmy for review. The act of sorting him into a category is the note.',
+          'When you shift from writing descriptions to simply categorizing comprehension, your data becomes instantly actionable. You can look at a list and immediately see who needs to be at your kidney table for small group instruction. You trade the illusion of detailed notes for the reality of effective intervention.',
+        ],
+      },
+      {
+        heading: 'A Modern Approach to Data',
+        body: [
+          'We need to stop feeling guilty for abandoning the clipboard. Technology allows us to collect better data in a fraction of the time. We should be using tools that match the actual pace of an elementary classroom.',
+          'With an app like Pulse Academic, the whole process is streamlined. You upload a lesson plan, get an AI generated exit ticket instantly, and just tap each student into Got It, Almost, or Needs Help. That quick tap is exactly what anecdotal notes were always supposed to be. It is fast, it is accurate, and it tells you exactly what you need to do next.',
+        ],
+      },
+    ],
+    takeaway: 'Ditch the messy clipboard and start tracking real comprehension data instantly with pulseacademic.com.',
+  },
 ];
 
 export function getBlogPost(slug: string) {
