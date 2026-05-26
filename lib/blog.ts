@@ -580,9 +580,9 @@ export const blogPosts: BlogPost[] = [
   },
   {
     slug: 'engagement-strategies-for-quiet-students',
-    title: 'Student Engagement Strategies for the Quiet Kids Who Hide',
+    title: 'Student Engagement Strategies for Quiet Students (Who Never Raise Their Hand)',
     description:
-      'Discover practical student engagement strategies to find the quiet students who are falling through the cracks and track their progress without the stress.',
+      'Quiet students are the hardest to reach and the easiest to miss. Here are practical student engagement strategies that reveal who actually understands — without putting anyone on the spot.',
     date: '2026-05-10',
     readingTime: '5 min read',
     primaryKeyword: 'student engagement strategies',
@@ -603,7 +603,7 @@ export const blogPosts: BlogPost[] = [
         heading: 'The Flaw in Asking for Questions',
         body: [
           'Asking &quot;does anyone have any questions?&quot; is one of the least effective student engagement strategies in existence. It is basically an invitation for the whole class to stay silent and hope that someone else speaks up first. Most students would rather walk over hot coals than admit they are lost in front of thirty of their peers.',
-          'If we want real signals, we have to stop asking for volunteers and start asking for evidence. I have learned that the best way to get a true picture of the room is to give everyone a quick, low-stakes way to show me what they know. Why did the teacher bring a fishing pole to the classroom? Because she wanted to catch all the quiet students before they drifted away.',
+          'If we want real signals, we have to stop asking for volunteers and start asking for evidence. I have learned that the best way to get a true picture of the room is to give everyone a quick, low-stakes way to show me what they know.',
         ],
       },
       {
@@ -626,8 +626,8 @@ export const blogPosts: BlogPost[] = [
   },
   {
     slug: 'what-are-formative-assessments-exit-tickets',
-    title: 'What Are Formative Assessments? (And Why Exit Tickets Are the Easiest Way to Do Them)',
-    description: 'A practical guide to formative assessments for teachers, including 5 exit ticket questions you can use this week.',
+    title: 'What Are Formative Assessments? Exit Tickets Explained for Teachers',
+    description: 'What are formative assessments, are exit tickets formative or summative, and how do you actually use them? A practical teacher guide with 5 exit ticket questions you can use this week.',
     date: '2026-05-05',
     readingTime: '5 min read',
     primaryKeyword: 'formative assessment',
@@ -638,9 +638,10 @@ export const blogPosts: BlogPost[] = [
     ],
     sections: [
       {
-        heading: 'Formative vs Summative, The One-Sentence Difference',
+        heading: 'Are Exit Tickets Formative or Summative?',
         body: [
-          'Think of it this way. A summative assessment is like a final medical exam, while a formative assessment is like a quick pulse check during a checkup to see how the patient is doing right now.',
+          'Exit tickets are formative assessments. They are used during or at the end of a lesson to check for understanding in real time, not to assign a final grade. A summative assessment, like a unit test or end-of-semester exam, measures what students learned after instruction is complete. An exit ticket happens while you can still do something about it.',
+          'Think of it this way. A summative assessment is like a final medical exam, while a formative assessment is like a quick pulse check during a checkup to see how the patient is doing right now. Exit tickets are that pulse check.',
         ],
       },
       {
@@ -682,8 +683,8 @@ export const blogPosts: BlogPost[] = [
   },
   {
     slug: 'best-formative-assessment-apps-elementary-2026',
-    title: 'Best Formative Assessment Apps for Elementary Teachers (2026)',
-    description: 'An honest look at the best formative assessment apps for elementary teachers in 2026, comparing Kahoot, Nearpod, Seesaw, and Pulse Academic.',
+    title: 'Best Formative Assessment Apps for Elementary Teachers: Honest 2026 Comparison',
+    description: 'Kahoot, Nearpod, Seesaw, or Pulse Academic? An honest comparison of the best formative assessment apps for elementary teachers in 2026, written by a classroom teacher.',
     date: '2026-05-06',
     readingTime: '5 min read',
     primaryKeyword: 'formative assessment apps',
