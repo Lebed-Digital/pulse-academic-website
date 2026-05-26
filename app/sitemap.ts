@@ -4,7 +4,7 @@ import { blogPosts } from '../lib/blog';
 const siteUrl = 'https://pulseacademic.com';
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const staticRoutes = ['', '/blog', '/school-access', '/privacy', '/terms'].map((route) => ({
+  const staticRoutes = ['', '/blog', '/school-access'].map((route) => ({
     url: `${siteUrl}${route}`,
     lastModified: new Date('2026-04-30'),
   }));

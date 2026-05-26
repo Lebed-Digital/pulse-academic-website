@@ -557,7 +557,7 @@ export const blogPosts: BlogPost[] = [
         heading: 'Using Daily Lessons as Evidence',
         body: [
           'The best part about daily comprehension checks is that they double as informal evidence for those bigger IEP goals. If a student has a goal for double digit addition, every time you check their exit ticket, you are doing IEP progress monitoring. You don&apos;t need a separate, fancy assessment that takes up an hour of instructional time just to see if they are making progress.',
-          'By using what you are already doing in class, you save yourself hours of extra work. It makes the data collection feel like a natural part of the day rather than a separate burden that you have to carry. Why did the teacher bring a flashlight to the IEP meeting? Because she wanted to shed some light on her students&apos; progress.',
+          'By using what you are already doing in class, you save yourself hours of extra work. It makes the data collection feel like a natural part of the day rather than a separate burden that you have to carry.',
         ],
       },
       {
@@ -718,7 +718,7 @@ export const blogPosts: BlogPost[] = [
         heading: 'Daily Clarity with Pulse Academic',
         body: [
           'If your goal is to know exactly where every student stands at the end of every lesson, Pulse Academic is built for that specific purpose. It isn&apos;t a game or a portfolio. It is a simple way to run daily exit tickets that give you clear data without the extra noise.',
-          'The app uses your lesson plan to generate questions that match your objectives, and then it organizes the results so you can see who needs help immediately. It makes the transition from teaching to grouping much faster. I once spent my entire lunch break looking for a stapler that was in my hand the whole time.',
+          'The app uses your lesson plan to generate questions that match your objectives, and then it organizes the results so you can see who needs help immediately. It makes the transition from teaching to grouping much faster.',
         ],
       },
     ],
