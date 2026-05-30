@@ -346,6 +346,20 @@ export default function Home() {
         </div>
       </section>
 
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+          { "@type": "Question", "name": "What is Pulse Academic?", "acceptedAnswer": { "@type": "Answer", "text": "Pulse Academic is a free exit ticket app and formative assessment tool for teachers. Upload a lesson plan, get AI-suggested exit ticket questions, and tap students to mark Got It, Almost, or Needs Help — all from one screen." } },
+          { "@type": "Question", "name": "What does \"exit ticket app\" mean?", "acceptedAnswer": { "@type": "Answer", "text": "An exit ticket is a quick end-of-lesson check for understanding — usually one question students answer before leaving. Pulse Academic generates that question from your actual lesson plan and lets you record every student's response with a single tap." } },
+          { "@type": "Question", "name": "How is this different from a lesson plan tracker?", "acceptedAnswer": { "@type": "Answer", "text": "It's both. You upload your weekly lesson plans once, and Pulse Academic uses them to auto-fill the tracker each day AND generate exit ticket questions. It's a lesson plan tracker that also does formative assessment." } },
+          { "@type": "Question", "name": "Is Pulse Academic free?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, completely free. No subscription, no credit card, no app store download. It works in any browser and can be installed as a Progressive Web App." } },
+          { "@type": "Question", "name": "What devices does it work on?", "acceptedAnswer": { "@type": "Answer", "text": "Any device with a browser — phone, tablet, Chromebook, or desktop. It's a PWA so you can also save it to your home screen for easy access." } },
+          { "@type": "Question", "name": "Do I need to set up student accounts?", "acceptedAnswer": { "@type": "Answer", "text": "No. Student lists are configured by your teacher account. Students never log in or touch the app — this is a teacher-side tool." } },
+          { "@type": "Question", "name": "Is this the same as ShortHand?", "acceptedAnswer": { "@type": "Answer", "text": "No. ShortHand is a behavior tracking and parent communication app. Pulse Academic is focused on academic formative assessment — lesson plans, exit tickets, and check-for-understanding data. Same creator, different tools." } },
+        ]
+      })}} />
+
       {/* FAQ */}
       <section id="faq" className="faq-section">
         <div className="section-inner">
