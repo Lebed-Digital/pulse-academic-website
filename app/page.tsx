@@ -303,7 +303,7 @@ export default function Home() {
               and losing track of which students actually got it.
             </p>
             <div className="creator-badges">
-              {['20+ Years K–8 Experience', 'Certified RBT', 'Active 3rd Grade Teacher'].map(b => (
+              {['20+ Years K–8 Experience', 'Former RBT', 'Active 3rd Grade Teacher'].map(b => (
                 <span key={b} className="creator-badge">{b}</span>
               ))}
             </div>
