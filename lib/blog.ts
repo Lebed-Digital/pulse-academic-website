@@ -479,7 +479,7 @@ export const blogPosts: BlogPost[] = [
         heading: 'Using Real Time Data to Work Smarter',
         body: [
           'We are constantly told to be data driven, but I don&apos;t know a single teacher who has time to sit down and analyze a spreadsheet every evening. We need information that is fast and actionable. By tracking comprehension during the lesson, I can adjust my groups for the very next day without spending my entire Sunday afternoon grading a stack of papers that are already outdated.',
-          'This approach takes the guesswork out of my planning and makes me feel like I am actually meeting my students where they are. It is about working smarter instead of just working harder, which is a lesson it took me two decades to finally learn. After all, a teacher&apos;s time is the most precious resource in the building, and we shouldn&apos;t spend it on paperwork that doesn&apos;t help our kids.',
+          'This approach takes the guesswork out of my planning and makes me feel like I am actually meeting my students where they are. It is about working smarter instead of just working harder, which is a lesson it took me two decades to finally learn. After all, a teacher&apos;s time is the most precious resource in the building, and we shouldn&apos;t spend it on paperwork that doesn&apos;t help our kids. For a deeper look at using that data for differentiation, see <a href="/blog/using-differentiated-instruction-data-to-group-students">using differentiated instruction data to group students</a>.',
         ],
       },
     ],
@@ -648,7 +648,7 @@ export const blogPosts: BlogPost[] = [
         heading: 'Why Exit Tickets Work (When They&apos;re Done Right)',
         body: [
           'Exit tickets are one of the most effective ways to get this data without adding hours to your grading pile. They give every student a voice, even the ones who never raise their hand during the lesson. For specific tactics to surface what those quiet students actually know, see our <a href="/blog/engagement-strategies-for-quiet-students">student engagement strategies for quiet students</a>. When you use exit tickets correctly, they provide a quick snapshot of where the class stands before they leave the room.',
-          'The key is keeping them focused. You do not need a ten-question quiz to know if they understood the day&apos;s objective. You just need one or two targeted questions that reveal their thinking.',
+          'The key is keeping them focused. You do not need a ten-question quiz to know if they understood the day&apos;s objective. You just need one or two targeted questions that reveal their thinking. For a full workflow that skips the grading entirely, see <a href="/blog/check-for-understanding-without-grading">how to check for understanding without grading</a>.',
         ],
       },
       {
@@ -691,7 +691,7 @@ export const blogPosts: BlogPost[] = [
     relatedKeywords: ['classroom technology', 'checking for understanding', 'teacher tools'],
     intro: [
       'Finding the right tool for your classroom can feel like a part time job. With so many options available, it is easy to get caught up in the flashy animations and forget what you actually need the app to do for your students.',
-      'Elementary teachers have specific needs. You need tools that are easy for kids to use but also provide you with clear information to help plan your next lesson. Here is an honest look at the best formative assessment apps for 2026.',
+      'Elementary teachers have specific needs. You need tools that are easy for kids to use but also provide you with clear information to help plan your next lesson. If you are still on the fence about whether a dedicated app is worth it, see <a href="/blog/why-every-classroom-needs-a-formative-assessment-app">why every classroom needs a formative assessment app</a>. Here is an honest look at the best options for 2026.',
     ],
     sections: [
       {

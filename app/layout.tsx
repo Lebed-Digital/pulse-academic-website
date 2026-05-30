@@ -20,15 +20,15 @@ const inter = Inter({
 export const metadata: Metadata = {
   metadataBase: new URL('https://pulseacademic.com'),
   title: 'Pulse Academic | Exit Ticket App & Formative Assessment Tool for Teachers',
-  description: 'Upload your lesson plan, get AI exit ticket suggestions, and tap students to mark Got It / Almost / Needs Help — a formative assessment tool built for real classrooms.',
+  description: 'Upload your lesson plan, get AI exit ticket suggestions, and tap students to mark Got It / Almost / Needs Help. A formative assessment tool built for real classrooms.',
   icons: { icon: '/icon.png', apple: '/apple-icon.png' },
   openGraph: {
     type: 'website',
     siteName: 'Pulse Academic',
     title: 'Pulse Academic | Exit Ticket App for Teachers',
-    description: 'Upload a lesson plan. Get AI exit tickets. Tap students to check for understanding — all in under 30 seconds.',
+    description: 'Upload a lesson plan. Get AI exit tickets. Tap students to check for understanding, all in under 30 seconds.',
     url: 'https://pulseacademic.com',
-    images: [{ url: '/og-image.png', width: 1200, height: 630, alt: 'Pulse Academic — formative assessment made fast.' }],
+    images: [{ url: '/og-image.png', width: 1200, height: 630, alt: 'Pulse Academic: formative assessment made fast.' }],
     locale: 'en_US',
   },
   twitter: {
