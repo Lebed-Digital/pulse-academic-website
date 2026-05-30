@@ -57,7 +57,7 @@ export const blogPosts: BlogPost[] = [
       {
         heading: 'Where Pulse Academic fits',
         body: [
-          'Pulse Academic turns that workflow into a simple classroom tool. Upload or paste your lesson plan, pick an AI-suggested exit ticket question, then tap each student into Got It, Almost, or Needs Help.',
+          'Pulse Academic turns that workflow into a simple classroom tool. Upload or paste your lesson plan, pick an AI-suggested exit ticket question, then tap each student into Got It, Almost, or Needs Help. If you want to compare your options before committing, see our breakdown of the <a href="/blog/finding-the-right-classroom-data-collection-app">best classroom data collection apps</a>.',
           'The teacher still makes the professional judgment. The app just keeps the evidence organized so it does not disappear into a clipboard, a sticky note, or a tired end-of-day memory.',
           'Why did the teacher bring a ladder to school? To help students reach the next level. Pulse Academic is the ladder. You still do the climbing.',
         ],
@@ -99,7 +99,7 @@ export const blogPosts: BlogPost[] = [
         heading: 'The app should connect to the actual lesson',
         body: [
           'Generic exit ticket prompts are useful, but the best question comes from what was taught today. If the lesson objective was fractions on a number line, the exit ticket should target that exact understanding.',
-          'That is why Pulse Academic starts with the lesson plan. The app uses the teacher&apos;s real objective to suggest exit ticket questions that match the day instead of pulling from a generic prompt bank. For more on how AI builds those questions, see <a href="/blog/ai-generated-exit-tickets">AI-generated exit tickets</a>.',
+          'That is why Pulse Academic starts with the lesson plan. The app uses the teacher&apos;s real objective to suggest exit ticket questions that match the day instead of pulling from a generic prompt bank. A good <a href="/blog/integrated-lesson-plan-tracker-for-teachers">lesson plan tracker</a> makes this connection automatic. For more on how AI builds those questions, see <a href="/blog/ai-generated-exit-tickets">AI-generated exit tickets</a>.',
           'Why did the fraction feel so confident? Because it knew exactly where it stood on the number line.',
         ],
       },
@@ -107,7 +107,7 @@ export const blogPosts: BlogPost[] = [
         heading: 'The real win is tomorrow&apos;s plan',
         body: [
           'An exit ticket app should not just collect answers. It should make tomorrow easier.',
-          'When students are grouped into Got It, Almost, and Needs Help, the teacher can quickly decide who needs a warm-up review, who needs partner practice, and who needs direct intervention.',
+          'When students are grouped into Got It, Almost, and Needs Help, the teacher can quickly decide who needs a warm-up review, who needs partner practice, and who needs direct intervention. For more on making that grouping decision confidently, see <a href="/blog/how-to-use-exit-tickets-effectively-in-elementary">how to use exit tickets effectively</a>.',
           'Think of it as sorting laundry, except instead of lights and darks, you are sorting students into small groups. And nobody loses a sock.',
         ],
       },
@@ -274,7 +274,7 @@ export const blogPosts: BlogPost[] = [
         heading: 'The Clipboard of Chaos',
         body: [
           'We have all had the clipboard. It is covered in scribbles, coffee stains, and shorthand that only makes sense for about three hours. It is great for taking notes in the moment, but it is terrible for seeing the big picture. When it comes time to plan small groups, you are left digging through a mountain of paper. This is exactly the problem explored in our post on <a href="/blog/anecdotal-notes-for-students">anecdotal notes for students</a>.',
-          'A good app should feel like that clipboard but with a brain. It should let you record a quick thought or a comprehension level with a single tap, then do the hard work of organizing that data for you later.',
+          'A good app should feel like that clipboard but with a brain. It should let you record a quick thought or a comprehension level with a single tap, then do the hard work of organizing that data for you later. The right tool also helps you <a href="/blog/how-to-identify-struggling-students-early">identify struggling students early</a> before gaps become hard to close.',
         ],
       },
       {
@@ -366,7 +366,7 @@ export const blogPosts: BlogPost[] = [
         heading: 'The Myth of the Fixed Group',
         body: [
           'One of my biggest mistakes in my early years was setting my "low," "medium," and "high" groups in September and keeping them there until June. Students aren&apos;t static. A student might be a "high" flyer in reading but struggle significantly with long division.',
-          'Differentiation should be fluid. It should change based on the objective of the day. To do that, you need a way to see who "got it" yesterday so you can adjust your groups for today. This is where real data beats our general "vibe" of how a student is doing.',
+          'Differentiation should be fluid. It should change based on the objective of the day. To do that, you need a way to see who "got it" yesterday so you can adjust your groups for today. This is where real data beats our general "vibe" of how a student is doing. For a step-by-step look at building those groups, see <a href="/blog/how-to-group-students-by-data">how to group students by data</a>.',
         ],
       },
       {
@@ -386,7 +386,7 @@ export const blogPosts: BlogPost[] = [
       {
         heading: 'Small Groups that Actually Work',
         body: [
-          'The most effective use of your time is at the small group table. But that table only works if the students sitting there actually need the same thing. Differentiated instruction data lets you group students by misconception rather than just by "ability."',
+          'The most effective use of your time is at the small group table. But that table only works if the students sitting there actually need the same thing. Differentiated instruction data lets you group students by misconception rather than just by "ability." For the full playbook on running those sessions, see <a href="/blog/effective-small-group-instruction-strategies">effective small group instruction strategies</a>.',
           'When you can group four students who all specifically struggle with "borrowing across zeros," your mini-lesson is targeted and efficient. You aren&apos;t wasting time on things they already know. You are performing surgery on a specific misunderstanding. That is where the real growth happens.',
         ],
       },
@@ -411,8 +411,8 @@ export const blogPosts: BlogPost[] = [
       {
         heading: 'Formative vs. Summative: The Big Difference',
         body: [
-          'Summative assessment is the final grade. It is the destination. Formative assessment is the GPS. It tells you where you are and when you need to take a detour. The problem is that many of us are still using "destination" tools to try to navigate our daily lessons.',
-          'An app built for formative tracking isn&apos;t interested in your final gradebook. It is interested in the "not yet" moments. It should show you the progress, the stumbles, and the small wins that happen on the way to mastery. That is information you can actually use while the lesson is still happening.',
+          'Summative assessment is the final grade. It is the destination. Formative assessment is the GPS. It tells you where you are and when you need to take a detour. The problem is that many of us are still using "destination" tools to try to navigate our daily lessons. If the distinction is still fuzzy, see <a href="/blog/what-are-formative-assessments-exit-tickets">what formative assessments are and how exit tickets fit in</a>.',
+          'An app built for formative tracking isn&apos;t interested in your final gradebook. It is interested in the "not yet" moments. It should show you the progress, the stumbles, and the small wins that happen on the way to mastery. That is information you can actually use while the lesson is still happening. If you are evaluating options, see our <a href="/blog/best-formative-assessment-apps-elementary-2026">2026 comparison of formative assessment apps</a>.',
         ],
       },
       {
@@ -511,7 +511,7 @@ export const blogPosts: BlogPost[] = [
         heading: 'Measurable Goals vs. General Ideas',
         body: [
           'The shift from a general idea to a measurable goal is where the magic happens. Instead of saying they will understand fractions, I say they will be able to identify three equivalent fractions using a number line. This small change makes it so much easier to look over a shoulder and see exactly where a student is getting tripped up.',
-          'It is all about choosing verbs that you can actually see in action. If I can&apos;t watch them do it or read it on a sticky note, it probably shouldn&apos;t be my main objective for the day. Why did the teacher bring a ruler to the lesson? Because she wanted to make sure her student learning objectives were measurable.',
+          'It is all about choosing verbs that you can actually see in action. If I can&apos;t watch them do it or read it on a sticky note, it probably shouldn&apos;t be my main objective for the day. Tight <a href="/blog/writing-effective-student-learning-objectives">student learning objectives</a> also make exit ticket questions much easier to write. Why did the teacher bring a ruler to the lesson? Because she wanted to make sure her student learning objectives were measurable.',
         ],
       },
       {
@@ -557,7 +557,7 @@ export const blogPosts: BlogPost[] = [
         heading: 'Using Daily Lessons as Evidence',
         body: [
           'The best part about daily comprehension checks is that they double as informal evidence for those bigger IEP goals. If a student has a goal for double digit addition, every time you check their exit ticket, you are doing IEP progress monitoring. You don&apos;t need a separate, fancy assessment that takes up an hour of instructional time just to see if they are making progress.',
-          'By using what you are already doing in class, you save yourself hours of extra work. It makes the data collection feel like a natural part of the day rather than a separate burden that you have to carry.',
+          'By using what you are already doing in class, you save yourself hours of extra work. It makes the data collection feel like a natural part of the day rather than a separate burden that you have to carry. This same approach works well for <a href="/blog/stress-free-iep-progress-monitoring-tips">IEP progress monitoring</a> without adding extra documentation.',
         ],
       },
       {
@@ -647,7 +647,7 @@ export const blogPosts: BlogPost[] = [
       {
         heading: 'Why Exit Tickets Work (When They&apos;re Done Right)',
         body: [
-          'Exit tickets are one of the most effective ways to get this data without adding hours to your grading pile. They give every student a voice, even the ones who never raise their hand during the lesson. When you use them correctly, they provide a quick snapshot of where the class stands before they leave the room.',
+          'Exit tickets are one of the most effective ways to get this data without adding hours to your grading pile. They give every student a voice, even the ones who never raise their hand during the lesson. For specific tactics to surface what those quiet students actually know, see our <a href="/blog/engagement-strategies-for-quiet-students">student engagement strategies for quiet students</a>. When you use exit tickets correctly, they provide a quick snapshot of where the class stands before they leave the room.',
           'The key is keeping them focused. You do not need a ten-question quiz to know if they understood the day&apos;s objective. You just need one or two targeted questions that reveal their thinking.',
         ],
       },
@@ -806,7 +806,7 @@ export const blogPosts: BlogPost[] = [
       {
         heading: 'Automatic Generation with Pulse Academic',
         body: [
-          'Pulse Academic helps by generating these types of varied questions automatically. You can upload your lesson plan and the AI will suggest a ranking question, a summary prompt, or a muddiest point check in that matches your specific content.',
+          'Pulse Academic helps by generating these types of varied questions automatically. You can upload your lesson plan and the AI will suggest a ranking question, a summary prompt, or a muddiest point check in that matches your specific content. Teaching older students? See our list of <a href="/blog/exit-ticket-ideas-middle-school">exit ticket ideas for middle school</a> that they will not roll their eyes at.',
           'This keeps things fresh for your students so they don&apos;t get bored with the same format every day. It makes it easier to get the honest feedback you need to keep your lessons on track without having to brainstorm new ideas every afternoon.',
         ],
       },
