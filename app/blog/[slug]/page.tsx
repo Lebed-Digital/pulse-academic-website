@@ -103,7 +103,7 @@ export default async function BlogPostPage({ params }: BlogPageProps) {
             </Link>
             <div className="article-meta">
               <span>{post.readingTime}</span>
-              <span>{new Date(post.date).toLocaleDateString('en-US', {
+              <span>{new Date(post.date + 'T12:00:00').toLocaleDateString('en-US', {
                 month: 'long',
                 day: 'numeric',
                 year: 'numeric',

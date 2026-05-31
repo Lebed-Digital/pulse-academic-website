@@ -447,11 +447,6 @@ export default function Home() {
         </div>
       </section>
 
-      {/* Hidden SEO text */}
-      <section style={{ display: 'none' }} aria-hidden="true">
-        <p>Pulse Academic is an education technology application designed to improve formative assessment in K–12 classrooms. This exit ticket app helps teachers check for understanding, track lesson plan progress, and generate AI-powered exit ticket questions tied to real lesson objectives. Built for teachers seeking formative assessment tools, check for understanding apps, lesson plan trackers, and exit ticket generators.</p>
-      </section>
-
       <Footer />
     </>
   );
