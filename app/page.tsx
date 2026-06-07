@@ -81,8 +81,8 @@ export default function Home() {
             <div className="hero-eyebrow">Free &nbsp;·&nbsp; No App Store &nbsp;·&nbsp; Works on Any Device</div>
             <h1>Know exactly who<br /><em>got it</em> — before<br />the bell rings.</h1>
             <p className="hero-sub">
-              Upload your lesson plan, get an AI exit ticket question in seconds, and tap each student
-              into Got It, Almost, or Needs Help. Your whole class on one screen.
+              Track understanding in seconds and start tomorrow's lesson already knowing who needs
+              reteaching, extra practice, or a quick check-in.
             </p>
             <div className="hero-ctas">
               <motion.a
