@@ -1068,6 +1068,249 @@ export const blogPosts: BlogPost[] = [
     ],
     takeaway: 'Ditch the messy clipboard and start tracking real comprehension data instantly with pulseacademic.com.',
   },
+  {
+    slug: 'what-to-do-with-exit-ticket-data',
+    title: 'What to Do With Exit Ticket Data (So It Actually Changes Your Teaching)',
+    description:
+      'Staring at a pile of exit tickets at the end of the day can feel overwhelming. Learn a simple four-step system to turn that paper stack into actionable lesson changes.',
+    date: '2026-06-06',
+    readingTime: '6 min read',
+    primaryKeyword: 'what to do with exit ticket data',
+    relatedKeywords: ['exit ticket data', 'formative assessment', 'reteaching strategies', 'small group planning'],
+    intro: [
+      'You are staring at a stack of twenty-five sticky notes on your desk at 3:45 PM. The school day ended fifteen minutes ago, and you have a staff meeting in ten minutes. You know these notes are supposed to tell you how well your students understood today\'s lesson on three-digit addition with regrouping. Instead, they look like a pile of administrative guilt. You copy the data into your planner, sort them into three vague piles of "got it," "sort of got it," and "completely lost," and then sweep them into your top drawer.',
+      'If this scene sounds familiar, you are not alone. Most of us were taught that exit tickets are the gold standard of formative assessment. What they did not teach us in credential programs is how to manage the daily mountain of paper without losing our prep periods.',
+      'When I was in the classroom, I fell into the same trap. I collected the tickets because I knew I was supposed to, but I rarely had the time to let that data change my teaching for the next morning. It was only when I started looking at the data as a map for the next day, rather than a grade for today, that things shifted. Here is a simple, realistic system to turn your exit tickets into action before you head home.',
+    ],
+    sections: [
+      {
+        heading: 'The Three-Pile Sort',
+        body: [
+          'The first step to making your exit tickets useful is to stop overcomplicating the grading. Do not use rubrics. Do not write detailed comments on every card. You simply do not have the time. Instead, dump the tickets on your desk and quickly sort them into three piles based on the learning objective.',
+          '<strong>Green (Full Mastery):</strong> These students followed the process correctly and got the correct answer. They are ready to move on. <strong>Yellow (Process Errors):</strong> These students understood the concept but made a minor calculation error. They do not need a full reteach, just a quick correction. <strong>Red (Conceptual Breakdown):</strong> These students have no idea where to start, or their answers show they missed the core objective entirely.',
+          'This sort should take no more than three minutes. Once you have your piles, you have a clear picture of what your classroom looks like. If you need tips on identifying these specific breakdowns, check out our guide on <a href="/blog/how-to-identify-students-who-need-reteaching">how to identify students who need reteaching</a>.',
+        ],
+      },
+      {
+        heading: 'Find the Common Error',
+        body: [
+          'Do not just look at who got the questions wrong. Look at how they got them wrong. Grab your Yellow and Red piles and look for patterns.',
+          'Are five students making the exact same subtraction mistake? Did half the class forget to regroup the tens digit? This is your common error. Identifying this error tells you exactly what to do during the first five minutes of tomorrow\'s lesson. You do not need to rewrite your entire lesson plan. You just need to address this specific blocker. If you want to learn more about setting up these groups, read about <a href="/blog/how-to-group-students-for-small-group-instruction">how to group students for small group instruction</a>.',
+        ],
+      },
+      {
+        heading: 'Turn Data Into Action Tomorrow',
+        body: [
+          'Once you have sorted your piles and found the common error, you can make three simple adjustments to tomorrow\'s schedule.',
+          'The Error Analysis Warm-Up: Take the common error you found and write it on the board tomorrow morning as a fictional student\'s work. Ask your class to find the mistake. This allows you to address the misunderstanding with the whole group without pointing anyone out.',
+          'The Five-Minute Huddle: Take your Red pile. These are the students you will pull during the first ten minutes of independent work time tomorrow. You will not reteach the whole lesson. You will focus on the single step where their thinking broke down.',
+          'The Extension Task: For the Green pile, plan one simple independent task that challenges them to apply the skill in a new way. This keeps them engaged while you work with the huddle group.',
+        ],
+      },
+      {
+        heading: 'Stop Dreading the Data',
+        body: [
+          'We often treat exit ticket data like a final judgment on our teaching. If half the class fails the exit ticket, we feel like we failed. Shift your mindset. An exit ticket that shows widespread confusion is not a failure. It is a gift. It means you caught the misunderstanding today, before the unit test, when you still have time to fix it.',
+          'Keeping track of this daily progress does not have to be a paper-sorting nightmare. I built Pulse Academic because I was tired of sitting at my desk sorting index cards every afternoon. Pulse Academic helps you log exit ticket data in seconds, automatically groups your students for tomorrow, and shows you exactly who needs support. You can learn more at pulseacademic.com.',
+        ],
+      },
+    ],
+    takeaway:
+      'Exit ticket data only helps if you act on it. Sort into three piles, find the common error, and make three small adjustments to tomorrow\'s lesson.',
+  },
+  {
+    slug: 'how-to-group-students-for-small-group-instruction',
+    title: 'How to Group Students for Small Group Instruction After a Lesson',
+    description:
+      'Static ability groups can trap students in labels. Learn how to design flexible, daily small groups based on immediate lesson performance.',
+    date: '2026-06-06',
+    readingTime: '6 min read',
+    primaryKeyword: 'how to group students for small group instruction',
+    relatedKeywords: ['small group instruction', 'flexible grouping', 'differentiated instruction', 'student mastery tracking'],
+    intro: [
+      'It is 10:15 AM on a Wednesday, and you are standing in front of your small group table. You are looking at your planner, trying to remember who needs to sit with you today. You know Sarah struggled with subtraction yesterday, but Marcus was confused on Tuesday, and David has been quiet all week. You end up calling four students over based on your general feeling of who needs help.',
+      'This vibe-based grouping is how many of us survive the day. We have three or four static groups, usually labeled High, Medium, and Low. The same kids sit in the Low group from September to June.',
+      'As a former classroom teacher, I know how easy it is to fall into this routine. It is organized, it fits on our pacing charts, and it requires less daily decision-making. But static groups do not work. They label kids, they limit growth, and they ignore the fact that a student might understand place value but struggle with measurement. To make small groups work, you need to make them dynamic.',
+    ],
+    sections: [
+      {
+        heading: 'The Problem With Ability Grouping',
+        body: [
+          'When we assign students to permanent ability groups, we are making a dangerous assumption. We are assuming that their past performance dictates their current understanding. But learning is not linear. A student who struggles with spelling might be a natural at identifying character traits. A student who needs a calculator for multiplication might grasp geometry concepts instantly.',
+          'When you keep groups fluid, you give students the chance to surprise you. You also prevent the stigma of the low group. Students are incredibly perceptive. They know exactly what those color-coded group names mean. If you want to build a better system for tracking these shifts, check out <a href="/blog/how-to-track-student-mastery-lesson-by-lesson">how to track student mastery lesson by lesson</a>.',
+        ],
+      },
+      {
+        heading: 'The Three Groups You Need Tomorrow',
+        body: [
+          'Instead of planning your groups weeks in advance, look at today\'s exit tickets or independent practice. Use that data to create three specific, temporary groups for tomorrow.',
+          'The Conceptual Reteach Group: These are the students who did not understand the core objective. They need you to model the concept again using different materials or language. This group should be small, ideally no more than four students.',
+          'The Guided Practice Group: These students understand the concept but are making systematic errors. They need a guided practice session where you watch them work and correct errors in real time.',
+          'The Self-Directed Extension Group: These students have mastered the skill. They do not need your time tomorrow. They need a task that pushes them to apply the skill to a new context while you work with the other groups.',
+          'By organizing your classroom this way, you ensure that every student gets exactly what they need based on today\'s performance, not last month\'s reading score. For more advice on planning these sessions quickly, see <a href="/blog/how-to-plan-small-groups-quickly">how to plan small groups quickly</a>.',
+        ],
+      },
+      {
+        heading: 'Keep Your Transition Times Short',
+        body: [
+          'The biggest threat to successful small group instruction is transition time. If it takes five minutes to get your students settled, you have wasted half of your small group block. To prevent this, make your groups visible. Write the names on the board or project them on your screen before the transition starts.',
+          'Use simple, repetitive routines. The rule should be clear: when the timer goes off, the extension group grabs their folders, the practice group starts their task at their desks, and the reteach group meets at the table with a pencil. No questions, no wandering.',
+        ],
+      },
+      {
+        heading: 'Let Automation Handle the Logistics',
+        body: [
+          'Doing this level of planning every single afternoon is exhausting. If you have to sort papers, write lists, and build plans every day, you will burn out by November.',
+          'That is why I built Pulse Academic. It was designed to automate the daily sorting process. You enter your exit ticket results, and Pulse Academic automatically groups your students for the next day. It tells you who is ready for extension, who needs a quick correction, and who needs a conceptual reteach. See how it works at pulseacademic.com.',
+        ],
+      },
+    ],
+    takeaway:
+      'Dynamic grouping based on daily exit ticket data is more effective than any static ability group. Three groups, built fresh each day, changes everything.',
+  },
+  {
+    slug: 'how-to-identify-students-who-need-reteaching',
+    title: 'How to Identify Students Who Need Reteaching (Without Spending Hours Sorting Data)',
+    description:
+      'Finding the gap in student understanding should not take all evening. Learn how to streamline your checks for understanding to identify reteach groups instantly.',
+    date: '2026-06-06',
+    readingTime: '6 min read',
+    primaryKeyword: 'how to identify students who need reteaching',
+    relatedKeywords: ['reteaching strategies', 'student intervention', 'formative assessment data', 'small group instruction'],
+    intro: [
+      'School ended an hour ago, and you are sitting on the rug in your classroom with math journals spread out around you like a deck of cards. You have a green pen in one hand and your gradebook in the other. You are flipping through the pages, trying to tally which kids missed question four versus question seven. Your back hurts, the classroom is quiet, and you still have to plan tomorrow\'s lesson.',
+      'This manual data-tallying ritual is the secret engine of teacher burnout. We are told to use data-driven instruction, but the process of gathering and analyzing that data is designed for a researcher, not a teacher with twenty-five active kids.',
+      'As a classroom teacher, I spent years drowning in student work, trying to find the exact moment where my students got lost. I realized that if my system for identifying struggling students took longer than ten minutes, it was not sustainable. Here is how to streamline your assessment process so you can identify who needs help and get home before the streetlights come on.',
+    ],
+    sections: [
+      {
+        heading: 'The Three-Question Rule for Assessments',
+        body: [
+          'If your exit tickets or daily assessments have ten questions, you are making your life miserable. You do not need ten questions to see if a student understands a skill. More questions just mean more grading and more data noise. Use the three-question rule instead.',
+          'Question 1 (Entry Level): A simple, direct application of the skill. This checks if the student understands the basic process. Question 2 (Target Standard): A grade-level application, possibly a word problem or multi-step task. This checks for true standard mastery. Question 3 (The Stretch): A question that applies the skill in a non-routine way or requires an explanation. This checks for deeper conceptual understanding.',
+          'When you review this three-question ticket, you do not calculate percentages. You look at where the student stopped. If they missed Question 1, they need basic conceptual support. To see how this fits into your overall data routine, read <a href="/blog/what-to-do-with-exit-ticket-data">what to do with exit ticket data</a>.',
+        ],
+      },
+      {
+        heading: 'The Tipping Point: Whole Group vs. Small Group',
+        body: [
+          'Once you have reviewed the work, you must make a decision: do you reteach the whole class, or do you pull a small group? Use the 80/20 rule. If eighty percent or more of your class mastered the exit ticket, you move on. You pull the remaining twenty percent in a small group tomorrow.',
+          'If less than eighty percent of your class mastered the objective, do not bother pulling small groups. You will spend your whole day repeating yourself. Instead, adjust tomorrow\'s lesson to reteach the concept to the entire class using a different model, different vocabulary, or different manipulatives. For strategies on planning these adjustments, check out <a href="/blog/how-to-plan-small-groups-quickly">how to plan small groups quickly</a>.',
+        ],
+      },
+      {
+        heading: 'Identify the Cause, Not the Symptom',
+        body: [
+          'When sorting your struggling students, pay attention to the type of mistake. A student who writes the correct setup but adds incorrectly in the final step does not need a reteach on the concept. They need a quick reminder on computation.',
+          'A student who draws a random answer with no work shown needs a different intervention than the student who almost had it right. Group students by the nature of their confusion, not just their final score. This is the difference between targeted intervention and generic reteaching.',
+        ],
+      },
+      {
+        heading: 'Make the Data Work for You',
+        body: [
+          'Keeping track of these daily insights in a traditional paper gradebook is nearly impossible. You end up with a wall of numbers that do not tell you what to teach tomorrow.',
+          'That is why I created Pulse Academic. It is a daily tracking tool designed specifically for teachers who want to use their data without spending hours sorting papers. You enter your daily checks, and Pulse Academic instantly flags which students need a reteach, which students need practice, and whether you need to adjust your whole-group lesson plan. Find out how to save your prep time at pulseacademic.com.',
+        ],
+      },
+    ],
+    takeaway:
+      'Three questions, the 80/20 rule, and grouping by mistake type. That is the whole system for identifying who needs reteaching without burning your evening.',
+  },
+  {
+    slug: 'how-to-track-student-mastery-lesson-by-lesson',
+    title: 'How to Track Student Mastery Lesson by Lesson',
+    description:
+      'Traditional gradebooks tell you that a student failed a test, but they do not tell you why. Discover how lesson-by-lesson mastery tracking changes everything.',
+    date: '2026-06-06',
+    readingTime: '6 min read',
+    primaryKeyword: 'how to track student mastery',
+    relatedKeywords: ['student mastery tracking', 'standards-based grading', 'formative assessment', 'classroom data'],
+    intro: [
+      'It is parent-teacher conference week. A parent sits across from you and asks why their child got a D on the last math unit test. You open your online gradebook. All you see is a single column labeled "Unit 3 Test: 64%." You know the student struggled, but you cannot point to the exact lesson or standard where they went off track. You offer some vague explanations about focus and practice, but you leave the conference feeling like you let them down.',
+      'Traditional gradebooks are designed to report grades, not to guide learning. An average score of seventy percent does not tell you if a student is missing place value concepts or just struggling with multi-step word problems.',
+      'As a teacher, I realized that if I wanted to prevent students from falling through the cracks, I had to track mastery lesson by lesson. I needed to see exactly when the misunderstanding happened so I could address it before the unit test.',
+    ],
+    sections: [
+      {
+        heading: 'The Mastery Matrix',
+        body: [
+          'To track daily progress, you need a different visual tool. Ditch the standard gradebook layout. Instead, create a matrix. The Rows: your student names. The Columns: specific, daily lesson objectives. The Cells: a simple three-point scale: Mastery (Green), Partial Mastery (Yellow), and No Mastery (Red).',
+          'Do not use letter grades or percentages in these cells. This matrix gives you an instant visual dashboard. If you look down a column and see a block of red, you know that lesson failed and you need to reteach it. If you look across a row and see a student with three reds in a row, you know they are in crisis. If you are trying to figure out how to handle the daily grouping from this matrix, check out <a href="/blog/how-to-group-students-for-small-group-instruction">how to group students for small group instruction</a>.',
+        ],
+      },
+      {
+        heading: 'Differentiate Between Mistakes and Gaps',
+        body: [
+          'When you update your tracker at the end of the day, be careful not to label every mistake as a lack of mastery. A student who makes a simple addition error on a multi-step word problem but sets up the equation perfectly has mastered the lesson objective. They made a processing error, not a conceptual one.',
+          'Only enter a Red or Yellow in your tracker if the student shows a fundamental misunderstanding of the target skill. Knowing the difference helps you plan who needs immediate support, which we discuss in <a href="/blog/how-to-identify-students-who-need-reteaching">how to identify students who need reteaching</a>.',
+        ],
+      },
+      {
+        heading: 'How to Use the Mastery Matrix for Report Cards',
+        body: [
+          'When it is time to write report cards or hold parent conferences, your mastery matrix is your best friend. Instead of showing a parent a list of test scores, you can show them their child\'s daily progression. You can say, "Your child mastered adding fractions with like denominators, but they struggled when the denominators were different. Here are the three lessons where they need extra practice."',
+          'This level of detail changes the conversation. It moves parents from arguing about points to discussing specific learning goals. That is an entirely different kind of conference.',
+        ],
+      },
+      {
+        heading: 'Stop Managing Spreadsheets',
+        body: [
+          'Building and maintaining this matrix in Excel or on paper is a massive chore. You have to update the standards, color-code the cells, and manually sort the students every afternoon.',
+          'I built Pulse Academic to do this work for you. Pulse Academic automatically builds your mastery matrix as you log daily data. It color-codes student progress, tracks standard mastery over time, and gives you a clear visual dashboard of your classroom health. See how it works at pulseacademic.com.',
+        ],
+      },
+    ],
+    takeaway:
+      'A mastery matrix built on daily exit ticket data gives you better conference conversations and better intervention decisions than any gradebook.',
+  },
+  {
+    slug: 'how-to-plan-small-groups-quickly',
+    title: 'How to Plan Tomorrow\'s Small Groups in Minutes, Not Hours',
+    description:
+      'Differentiated lesson planning can keep you at school until 6:00 PM. Learn a simple planning strategy to prep your daily small groups in five minutes.',
+    date: '2026-06-06',
+    readingTime: '6 min read',
+    primaryKeyword: 'how to plan small groups quickly',
+    relatedKeywords: ['small group planning', 'differentiated instruction', 'reteaching strategies', 'teacher time management'],
+    intro: [
+      'It is 8:15 AM on a Tuesday. Your students start arriving in fifteen minutes. You are standing at the school photocopier, waiting for a packet of three different worksheets to print because you realized last night that you need to run three different small groups today. The copier jams. You feel your heart rate spike, and you start calculating how much planning time you are about to lose.',
+      'This morning photocopy scramble is the reality for teachers who try to plan unique lessons for every small group. We are taught that differentiation means creating custom materials for every level of student in our room.',
+      'As a classroom teacher, I spent hours writing separate lesson plans and printing different worksheets for my small groups. It was exhausting, and it did not make my teaching any better. I eventually learned that you do not need different materials for every group. You just need a better framework for using the same materials in different ways.',
+    ],
+    sections: [
+      {
+        heading: 'The Single-Sheet Method',
+        body: [
+          'Stop printing three different worksheets. It wastes paper, prep time, and mental energy. Instead, use the same core set of problems or texts for all of your students. Differentiate through the level of support you provide, not the task itself.',
+          'For your Extension Group: give them the sheet and ask them to complete it independently, then write a short explanation of their reasoning. For your Practice Group: have them work in pairs. You wander the room, checking progress and correcting errors. For your Reteach Group: pull them to your table. You work through the exact same sheet together, problem by problem, using manipulatives or drawing pictures to scaffold the work.',
+          'This approach means you only have to print one page for the entire class. To see how to quickly identify who goes into which group, read <a href="/blog/what-to-do-with-exit-ticket-data">what to do with exit ticket data</a>.',
+        ],
+      },
+      {
+        heading: 'Focus on the Micro-Skill',
+        body: [
+          'Do not try to teach the entire lesson again during your ten-minute small group session. You will run out of time, and your students will leave confused. Instead, focus on a single micro-skill. Look at your daily mastery tracker to find the exact step where their thinking broke down. If you need tips on tracking these daily gaps, check out <a href="/blog/how-to-track-student-mastery-lesson-by-lesson">how to track student mastery lesson by lesson</a>.',
+          'If the lesson was on double-digit addition with regrouping, and your group is struggling with place value, do not make them solve ten problems. Focus the entire ten minutes on the single step of regrouping the ten ones into a ten rod. Once they master that single step, they can complete the rest of the worksheet at their desks.',
+        ],
+      },
+      {
+        heading: 'Build One Independent Anchor Routine',
+        body: [
+          'The biggest blocker to running small groups is the rest of the class. If your independent students are constantly interrupting you to ask questions, your small group will fail. To prevent this, build one highly practiced anchor routine that runs itself. This could be a partner math game, a silent reading block, or a choice board of review activities.',
+          'Do not introduce new, complicated tasks for independent time. Use tasks that students already know how to do. The goal of independent time is practice, not new learning.',
+        ],
+      },
+      {
+        heading: 'Automated Grouping Saves Your Prep Time',
+        body: [
+          'Planning these daily groups is still a mental load at the end of a long day. You have to look at the work, write down who goes where, and decide what task to focus on.',
+          'That is why I built Pulse Academic. It eliminates the daily planning scramble. Pulse Academic takes your daily formative assessment data, sorts your students into target groups, and surfaces the exact micro-skill you need to focus on at your small group table tomorrow. You can stop worrying about who to pull and start teaching. Check out how it works at pulseacademic.com.',
+        ],
+      },
+    ],
+    takeaway:
+      'One worksheet, one micro-skill, one anchor routine. That is the whole system for running daily small groups without spending your evening planning them.',
+  },
 ];
 
 export function getBlogPost(slug: string) {
