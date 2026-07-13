@@ -7,7 +7,7 @@ import { motion } from 'framer-motion';
 import { blogPosts } from '../lib/blog';
 import Footer from '../components/Footer';
 
-const APP_URL = 'https://pulse-academic.vercel.app';
+const APP_URL = 'https://app.pulseacademic.com';
 const PRIMARY_SITE_URL = 'https://pulseacademic.com';
 
 const btnHover = { scale: 1.04, y: -2 };

@@ -141,7 +141,7 @@ export default async function BlogPostPage({ params }: BlogPageProps) {
               </p>
               <p>
                 <a
-                  href="https://pulse-academic.vercel.app"
+                  href="https://app.pulseacademic.com"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="article-cta"

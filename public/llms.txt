@@ -28,7 +28,7 @@ info@getshorthandapp.com
 ## URLs
 - Homepage: https://pulseacademic.com
 - Blog: https://pulseacademic.com/blog
-- App: https://pulse-academic.vercel.app
+- App: https://app.pulseacademic.com
 - Privacy Policy: https://pulseacademic.com/privacy
 - Terms: https://pulseacademic.com/terms
 - School Access Help: https://pulseacademic.com/school-access
