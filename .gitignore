@@ -39,3 +39,10 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# unpublished draft posts (not wired into the site, held for tenure/byline reasons)
+/how-to-prepare-for-parent-teacher-conference.md
+/parent-email-translation-guide.md
+/parent-teacher-conference-translation-guide.md
+/report-card-comment-translation-guide.md
+/what-teachers-mean-vs-what-parents-hear.md
