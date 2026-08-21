@@ -7,11 +7,7 @@ import { motion } from 'framer-motion';
 import { blogPosts } from '../lib/blog';
 import Footer from '../components/Footer';
 
-const APP_URL = 'https://app.pulseacademic.com';
-const PRIMARY_SITE_URL = 'https://pulseacademic.com';
-
-const btnHover = { scale: 1.04, y: -2 };
-const btnTap   = { scale: 0.96 };
+const btnTap = { scale: 0.96 };
 
 const mockStudents = [
   { initials: 'RB', status: 'green' },
@@ -39,7 +35,7 @@ export default function Home() {
         <div className="nav-inner">
           <div className="nav-left">
             <Link href="/" className="nav-logo">Pulse <span>Academic</span></Link>
-            <span className="nav-badge">Free</span>
+            <span className="nav-badge">Paused</span>
           </div>
           <div className="nav-links">
             <a href="#how-it-works" className="nav-link">How It Works</a>
@@ -48,16 +44,9 @@ export default function Home() {
             <a href="#privacy" className="nav-link">🔒 Privacy</a>
           </div>
           <div className="nav-right">
-            <motion.a
-              href={APP_URL}
-              className="btn-primary"
-              whileHover={btnHover}
-              whileTap={btnTap}
-              transition={{ type: 'spring', stiffness: 400, damping: 20 }}
-              target="_blank" rel="noopener noreferrer"
-            >
-              Try It Free →
-            </motion.a>
+            <span className="btn-disabled" aria-disabled="true">
+              Signups Paused
+            </span>
             <button className="nav-hamburger" onClick={() => setMenuOpen(o => !o)} aria-label="Menu">
               {menuOpen ? <X size={22} /> : <Menu size={22} />}
             </button>
@@ -69,7 +58,9 @@ export default function Home() {
             <Link href="/blog" className="nav-mobile-link">Blog</Link>
             <a href="#faq" className="nav-mobile-link">FAQ</a>
             <a href="#privacy" className="nav-mobile-link">🔒 Privacy</a>
-            <a href={APP_URL} className="nav-mobile-link nav-mobile-cta" target="_blank" rel="noopener noreferrer">Try It Free →</a>
+            <span className="nav-mobile-link nav-mobile-cta" aria-disabled="true" style={{ opacity: 0.6, cursor: 'not-allowed' }}>
+              Signups Paused
+            </span>
           </div>
         )}
       </nav>
@@ -78,22 +69,16 @@ export default function Home() {
       <section className="hero">
         <div className="hero-inner">
           <div className="hero-content">
-            <div className="hero-eyebrow">Free &nbsp;·&nbsp; No App Store &nbsp;·&nbsp; Works on Any Device</div>
+            <div className="paused-banner">⏸ Temporarily Paused</div>
             <h1>Know exactly who<br /><em>got it</em> — before<br />the bell rings.</h1>
             <p className="hero-sub">
-              Track understanding in seconds and start tomorrow's lesson already knowing who needs
-              reteaching, extra practice, or a quick check-in.
+              Pulse Academic is paused while it gets rebuilt. New signups aren&apos;t open right now,
+              but here&apos;s what it does and what&apos;s coming back.
             </p>
             <div className="hero-ctas">
-              <motion.a
-                href={APP_URL}
-                className="btn-primary"
-                whileHover={btnHover} whileTap={btnTap}
-                transition={{ type: 'spring', stiffness: 400, damping: 20 }}
-                target="_blank" rel="noopener noreferrer"
-              >
-                Try It Free →
-              </motion.a>
+              <span className="btn-disabled" aria-disabled="true">
+                Signups Paused
+              </span>
               <motion.a
                 href="#how-it-works"
                 className="btn-ghost"
@@ -391,56 +376,18 @@ export default function Home() {
       <section className="cta-section">
         <div className="section-inner">
           <div className="cta-card">
-            <div className="section-label">Get started</div>
-            <h2 className="cta-heading">Free to use.<br />Works on any device.</h2>
+            <div className="section-label">Currently paused</div>
+            <h2 className="cta-heading">Not accepting<br />new signups right now.</h2>
             <p className="cta-sub">
-              No app store. No sign-up friction. Open it in your browser, upload a lesson plan,
-              and run your first AI exit ticket in under two minutes.
+              Pulse Academic is on the back burner while it gets rebuilt. Check back later,
+              or follow along on the blog in the meantime.
             </p>
             <div className="cta-btns">
-              <motion.a
-                href={APP_URL}
-                className="btn-primary"
-                whileHover={btnHover} whileTap={btnTap}
-                transition={{ type: 'spring', stiffness: 400, damping: 20 }}
-                target="_blank" rel="noopener noreferrer"
-              >
-                Try Pulse Academic Free →
-              </motion.a>
-            </div>
-          </div>
-        </div>
-      </section>
-
-      {/* ACCESS OPTIONS */}
-      <section className="access-section">
-        <div className="section-inner">
-          <div className="access-card">
-            <div className="section-label">School network access</div>
-            <h2 className="access-heading">If one link is blocked, use the backup link.</h2>
-            <p className="access-sub">
-              Some school filters take time to trust new domains. Use your preferred URL first.
-              If one link does not open on your network, use the direct Vercel fallback.
-            </p>
-            <div className="access-links">
-              <a
-                href={PRIMARY_SITE_URL}
-                className="btn-ghost"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                Primary site
-              </a>
-              <a
-                href={APP_URL}
-                className="btn-primary"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                Direct app fallback
-              </a>
-              <Link href="/school-access" className="access-it-link">
-                Access help page
+              <span className="btn-disabled" aria-disabled="true">
+                Signups Paused
+              </span>
+              <Link href="/blog" className="btn-ghost">
+                Read the blog
               </Link>
             </div>
           </div>
